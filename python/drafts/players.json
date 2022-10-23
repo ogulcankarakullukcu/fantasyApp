@@ -1,0 +1,3462 @@
+{
+    "data": [
+        {
+            "player": "NikolaJokic",
+            "team": "Den",
+            "position": "C",
+            "stats": {
+                "Games Played": 79.0,
+                "Minutes Per Game": 33.9,
+                "Field Goal Percentage": 0.571,
+                "Free Throw Percentage": 0.838,
+                "Three Pointers Per Game": 1.3,
+                "Rebounds Per Game": 12.0,
+                "Assists Per Game": 8.0,
+                "Assists To Turnover Ratio": 2.35,
+                "Steals Per Game": 1.4,
+                "Blocks Per Game": 0.7,
+                "Turnovers Per Game": 3.4,
+                "Points Per Game": 26.1
+            }
+        },
+        {
+            "player": "GiannisAntetokounmpo",
+            "team": "Mil",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 33.6,
+                "Field Goal Percentage": 0.557,
+                "Free Throw Percentage": 0.701,
+                "Three Pointers Per Game": 1.2,
+                "Rebounds Per Game": 12.0,
+                "Assists Per Game": 6.0,
+                "Assists To Turnover Ratio": 1.71,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 1.3,
+                "Turnovers Per Game": 3.5,
+                "Points Per Game": 30.1
+            }
+        },
+        {
+            "player": "LukaDoncic",
+            "team": "Dal",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 35.8,
+                "Field Goal Percentage": 0.462,
+                "Free Throw Percentage": 0.744,
+                "Three Pointers Per Game": 3.1,
+                "Rebounds Per Game": 9.1,
+                "Assists Per Game": 8.9,
+                "Assists To Turnover Ratio": 1.98,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 4.5,
+                "Points Per Game": 29.0
+            }
+        },
+        {
+            "player": "LaMeloBall",
+            "team": "Cha",
+            "position": "PG",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 34.9,
+                "Field Goal Percentage": 0.434,
+                "Free Throw Percentage": 0.871,
+                "Three Pointers Per Game": 3.5,
+                "Rebounds Per Game": 7.2,
+                "Assists Per Game": 8.8,
+                "Assists To Turnover Ratio": 2.52,
+                "Steals Per Game": 1.7,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 3.5,
+                "Points Per Game": 24.2
+            }
+        },
+        {
+            "player": "JoelEmbiid",
+            "team": "Phi",
+            "position": "C",
+            "stats": {
+                "Games Played": 69.0,
+                "Minutes Per Game": 32.9,
+                "Field Goal Percentage": 0.499,
+                "Free Throw Percentage": 0.817,
+                "Three Pointers Per Game": 1.3,
+                "Rebounds Per Game": 11.4,
+                "Assists Per Game": 3.9,
+                "Assists To Turnover Ratio": 1.26,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 1.4,
+                "Turnovers Per Game": 3.1,
+                "Points Per Game": 29.6
+            }
+        },
+        {
+            "player": "JaysonTatum",
+            "team": "Bos",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 79.0,
+                "Minutes Per Game": 35.9,
+                "Field Goal Percentage": 0.462,
+                "Free Throw Percentage": 0.853,
+                "Three Pointers Per Game": 3.1,
+                "Rebounds Per Game": 7.9,
+                "Assists Per Game": 4.3,
+                "Assists To Turnover Ratio": 1.54,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 2.8,
+                "Points Per Game": 27.9
+            }
+        },
+        {
+            "player": "JaMorant",
+            "team": "Mem",
+            "position": "PG",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 35.3,
+                "Field Goal Percentage": 0.489,
+                "Free Throw Percentage": 0.759,
+                "Three Pointers Per Game": 1.6,
+                "Rebounds Per Game": 5.8,
+                "Assists Per Game": 7.3,
+                "Assists To Turnover Ratio": 2.03,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 3.6,
+                "Points Per Game": 27.9
+            }
+        },
+        {
+            "player": "TyreseHaliburton",
+            "team": "Ind",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 78.0,
+                "Minutes Per Game": 36.2,
+                "Field Goal Percentage": 0.479,
+                "Free Throw Percentage": 0.849,
+                "Three Pointers Per Game": 2.6,
+                "Rebounds Per Game": 4.1,
+                "Assists Per Game": 8.7,
+                "Assists To Turnover Ratio": 3.34,
+                "Steals Per Game": 1.8,
+                "Blocks Per Game": 0.7,
+                "Turnovers Per Game": 2.6,
+                "Points Per Game": 19.0
+            }
+        },
+        {
+            "player": "TraeYoung",
+            "team": "Atl",
+            "position": "PG",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 35.4,
+                "Field Goal Percentage": 0.456,
+                "Free Throw Percentage": 0.894,
+                "Three Pointers Per Game": 2.9,
+                "Rebounds Per Game": 3.9,
+                "Assists Per Game": 9.3,
+                "Assists To Turnover Ratio": 2.22,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.1,
+                "Turnovers Per Game": 4.2,
+                "Points Per Game": 26.3
+            }
+        },
+        {
+            "player": "Karl-AnthonyTowns",
+            "team": "Min",
+            "position": "C",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 33.2,
+                "Field Goal Percentage": 0.516,
+                "Free Throw Percentage": 0.829,
+                "Three Pointers Per Game": 2.5,
+                "Rebounds Per Game": 9.6,
+                "Assists Per Game": 3.5,
+                "Assists To Turnover Ratio": 1.13,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 1.1,
+                "Turnovers Per Game": 3.1,
+                "Points Per Game": 24.3
+            }
+        },
+        {
+            "player": "LeBronJames",
+            "team": "LAL",
+            "position": "SF,PG,PF",
+            "stats": {
+                "Games Played": 66.0,
+                "Minutes Per Game": 34.2,
+                "Field Goal Percentage": 0.529,
+                "Free Throw Percentage": 0.754,
+                "Three Pointers Per Game": 2.9,
+                "Rebounds Per Game": 7.6,
+                "Assists Per Game": 5.6,
+                "Assists To Turnover Ratio": 1.7,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.9,
+                "Turnovers Per Game": 3.3,
+                "Points Per Game": 29.9
+            }
+        },
+        {
+            "player": "DamianLillard",
+            "team": "Por",
+            "position": "PG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 36.2,
+                "Field Goal Percentage": 0.435,
+                "Free Throw Percentage": 0.903,
+                "Three Pointers Per Game": 3.7,
+                "Rebounds Per Game": 4.2,
+                "Assists Per Game": 7.5,
+                "Assists To Turnover Ratio": 2.58,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.9,
+                "Points Per Game": 27.0
+            }
+        },
+        {
+            "player": "JamesHarden",
+            "team": "Phi",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 33.7,
+                "Field Goal Percentage": 0.418,
+                "Free Throw Percentage": 0.874,
+                "Three Pointers Per Game": 2.3,
+                "Rebounds Per Game": 6.9,
+                "Assists Per Game": 9.2,
+                "Assists To Turnover Ratio": 2.36,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 3.9,
+                "Points Per Game": 21.1
+            }
+        },
+        {
+            "player": "PascalSiakam",
+            "team": "Tor",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 37.9,
+                "Field Goal Percentage": 0.487,
+                "Free Throw Percentage": 0.76,
+                "Three Pointers Per Game": 1.2,
+                "Rebounds Per Game": 8.4,
+                "Assists Per Game": 5.1,
+                "Assists To Turnover Ratio": 1.96,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.7,
+                "Turnovers Per Game": 2.6,
+                "Points Per Game": 22.9
+            }
+        },
+        {
+            "player": "KevinDurant",
+            "team": "Bkn",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 65.0,
+                "Minutes Per Game": 36.0,
+                "Field Goal Percentage": 0.523,
+                "Free Throw Percentage": 0.901,
+                "Three Pointers Per Game": 2.2,
+                "Rebounds Per Game": 7.3,
+                "Assists Per Game": 6.1,
+                "Assists To Turnover Ratio": 1.74,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 1.0,
+                "Turnovers Per Game": 3.5,
+                "Points Per Game": 29.1
+            }
+        },
+        {
+            "player": "DevinBooker",
+            "team": "Phx",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 35.2,
+                "Field Goal Percentage": 0.469,
+                "Free Throw Percentage": 0.872,
+                "Three Pointers Per Game": 2.6,
+                "Rebounds Per Game": 5.0,
+                "Assists Per Game": 5.0,
+                "Assists To Turnover Ratio": 1.93,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 2.6,
+                "Points Per Game": 27.1
+            }
+        },
+        {
+            "player": "CadeCunningham",
+            "team": "Det",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 35.5,
+                "Field Goal Percentage": 0.438,
+                "Free Throw Percentage": 0.852,
+                "Three Pointers Per Game": 2.3,
+                "Rebounds Per Game": 6.4,
+                "Assists Per Game": 6.9,
+                "Assists To Turnover Ratio": 1.73,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 0.7,
+                "Turnovers Per Game": 4.0,
+                "Points Per Game": 23.3
+            }
+        },
+        {
+            "player": "NikolaVucevic",
+            "team": "Chi",
+            "position": "C",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 33.3,
+                "Field Goal Percentage": 0.475,
+                "Free Throw Percentage": 0.801,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 11.3,
+                "Assists Per Game": 3.5,
+                "Assists To Turnover Ratio": 1.94,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.9,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 20.0
+            }
+        },
+        {
+            "player": "DeMarDeRozan",
+            "team": "Chi",
+            "position": "SF,SG",
+            "stats": {
+                "Games Played": 78.0,
+                "Minutes Per Game": 35.9,
+                "Field Goal Percentage": 0.499,
+                "Free Throw Percentage": 0.875,
+                "Three Pointers Per Game": 0.6,
+                "Rebounds Per Game": 5.1,
+                "Assists Per Game": 5.0,
+                "Assists To Turnover Ratio": 2.09,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.4,
+                "Points Per Game": 27.1
+            }
+        },
+        {
+            "player": "DomantasSabonis",
+            "team": "Sac",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 35.0,
+                "Field Goal Percentage": 0.556,
+                "Free Throw Percentage": 0.735,
+                "Three Pointers Per Game": 0.6,
+                "Rebounds Per Game": 12.1,
+                "Assists Per Game": 5.6,
+                "Assists To Turnover Ratio": 1.75,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 3.2,
+                "Points Per Game": 19.3
+            }
+        },
+        {
+            "player": "RudyGobert",
+            "team": "Min",
+            "position": "C",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 32.0,
+                "Field Goal Percentage": 0.699,
+                "Free Throw Percentage": 0.662,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 14.2,
+                "Assists Per Game": 1.2,
+                "Assists To Turnover Ratio": 0.66,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 2.3,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 15.1
+            }
+        },
+        {
+            "player": "StephenCurry",
+            "team": "GS",
+            "position": "PG",
+            "stats": {
+                "Games Played": 68.0,
+                "Minutes Per Game": 32.9,
+                "Field Goal Percentage": 0.441,
+                "Free Throw Percentage": 0.92,
+                "Three Pointers Per Game": 4.3,
+                "Rebounds Per Game": 5.0,
+                "Assists Per Game": 6.0,
+                "Assists To Turnover Ratio": 1.93,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 3.1,
+                "Points Per Game": 24.8
+            }
+        },
+        {
+            "player": "DejounteMurray",
+            "team": "Atl",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 35.1,
+                "Field Goal Percentage": 0.469,
+                "Free Throw Percentage": 0.795,
+                "Three Pointers Per Game": 1.2,
+                "Rebounds Per Game": 6.5,
+                "Assists Per Game": 6.1,
+                "Assists To Turnover Ratio": 2.54,
+                "Steals Per Game": 2.0,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.4,
+                "Points Per Game": 18.9
+            }
+        },
+        {
+            "player": "JalenBrunson",
+            "team": "NY",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 78.0,
+                "Minutes Per Game": 34.9,
+                "Field Goal Percentage": 0.511,
+                "Free Throw Percentage": 0.841,
+                "Three Pointers Per Game": 1.6,
+                "Rebounds Per Game": 4.3,
+                "Assists Per Game": 7.1,
+                "Assists To Turnover Ratio": 4.17,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.0,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 20.5
+            }
+        },
+        {
+            "player": "PaulGeorge",
+            "team": "LAC",
+            "position": "SF,SG",
+            "stats": {
+                "Games Played": 68.0,
+                "Minutes Per Game": 35.1,
+                "Field Goal Percentage": 0.441,
+                "Free Throw Percentage": 0.866,
+                "Three Pointers Per Game": 3.2,
+                "Rebounds Per Game": 6.9,
+                "Assists Per Game": 5.4,
+                "Assists To Turnover Ratio": 1.46,
+                "Steals Per Game": 1.7,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 3.7,
+                "Points Per Game": 24.5
+            }
+        },
+        {
+            "player": "AnthonyDavis",
+            "team": "LAL",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 61.0,
+                "Minutes Per Game": 34.5,
+                "Field Goal Percentage": 0.517,
+                "Free Throw Percentage": 0.778,
+                "Three Pointers Per Game": 0.8,
+                "Rebounds Per Game": 9.3,
+                "Assists Per Game": 3.1,
+                "Assists To Turnover Ratio": 1.41,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 2.1,
+                "Turnovers Per Game": 2.2,
+                "Points Per Game": 23.9
+            }
+        },
+        {
+            "player": "JuliusRandle",
+            "team": "NY",
+            "position": "PF",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 36.3,
+                "Field Goal Percentage": 0.445,
+                "Free Throw Percentage": 0.787,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 10.1,
+                "Assists Per Game": 5.1,
+                "Assists To Turnover Ratio": 1.5,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 3.4,
+                "Points Per Game": 22.4
+            }
+        },
+        {
+            "player": "BamAdebayo",
+            "team": "Mia",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 33.2,
+                "Field Goal Percentage": 0.562,
+                "Free Throw Percentage": 0.765,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 9.8,
+                "Assists Per Game": 4.3,
+                "Assists To Turnover Ratio": 1.59,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 1.0,
+                "Turnovers Per Game": 2.7,
+                "Points Per Game": 18.5
+            }
+        },
+        {
+            "player": "AnthonyEdwards",
+            "team": "Min",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 35.3,
+                "Field Goal Percentage": 0.439,
+                "Free Throw Percentage": 0.784,
+                "Three Pointers Per Game": 3.3,
+                "Rebounds Per Game": 4.9,
+                "Assists Per Game": 3.9,
+                "Assists To Turnover Ratio": 1.44,
+                "Steals Per Game": 1.5,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 2.7,
+                "Points Per Game": 23.1
+            }
+        },
+        {
+            "player": "JrueHoliday",
+            "team": "Mil",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 33.0,
+                "Field Goal Percentage": 0.494,
+                "Free Throw Percentage": 0.76,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 4.6,
+                "Assists Per Game": 6.6,
+                "Assists To Turnover Ratio": 2.54,
+                "Steals Per Game": 1.6,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 2.6,
+                "Points Per Game": 18.2
+            }
+        },
+        {
+            "player": "ZionWilliamson",
+            "team": "NO",
+            "position": "PF",
+            "stats": {
+                "Games Played": 66.0,
+                "Minutes Per Game": 32.9,
+                "Field Goal Percentage": 0.61,
+                "Free Throw Percentage": 0.694,
+                "Three Pointers Per Game": 0.2,
+                "Rebounds Per Game": 7.2,
+                "Assists Per Game": 3.6,
+                "Assists To Turnover Ratio": 1.34,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 2.7,
+                "Points Per Game": 26.8
+            }
+        },
+        {
+            "player": "ScottieBarnes",
+            "team": "Tor",
+            "position": "PF,SF",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 35.8,
+                "Field Goal Percentage": 0.497,
+                "Free Throw Percentage": 0.748,
+                "Three Pointers Per Game": 1.2,
+                "Rebounds Per Game": 8.2,
+                "Assists Per Game": 4.2,
+                "Assists To Turnover Ratio": 2.22,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.9,
+                "Turnovers Per Game": 1.9,
+                "Points Per Game": 17.5
+            }
+        },
+        {
+            "player": "DariusGarland",
+            "team": "Cle",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 34.2,
+                "Field Goal Percentage": 0.469,
+                "Free Throw Percentage": 0.892,
+                "Three Pointers Per Game": 2.4,
+                "Rebounds Per Game": 3.1,
+                "Assists Per Game": 8.4,
+                "Assists To Turnover Ratio": 2.47,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.1,
+                "Turnovers Per Game": 3.4,
+                "Points Per Game": 19.4
+            }
+        },
+        {
+            "player": "KyrieIrving",
+            "team": "Bkn",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 60.0,
+                "Minutes Per Game": 36.2,
+                "Field Goal Percentage": 0.486,
+                "Free Throw Percentage": 0.919,
+                "Three Pointers Per Game": 3.1,
+                "Rebounds Per Game": 4.6,
+                "Assists Per Game": 6.0,
+                "Assists To Turnover Ratio": 2.4,
+                "Steals Per Game": 1.4,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 2.5,
+                "Points Per Game": 27.3
+            }
+        },
+        {
+            "player": "FredVanVleet",
+            "team": "Tor",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 37.1,
+                "Field Goal Percentage": 0.402,
+                "Free Throw Percentage": 0.873,
+                "Three Pointers Per Game": 3.6,
+                "Rebounds Per Game": 4.3,
+                "Assists Per Game": 6.5,
+                "Assists To Turnover Ratio": 2.6,
+                "Steals Per Game": 1.7,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 2.5,
+                "Points Per Game": 19.8
+            }
+        },
+        {
+            "player": "KawhiLeonard",
+            "team": "LAC",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 61.0,
+                "Minutes Per Game": 33.9,
+                "Field Goal Percentage": 0.497,
+                "Free Throw Percentage": 0.887,
+                "Three Pointers Per Game": 2.0,
+                "Rebounds Per Game": 6.8,
+                "Assists Per Game": 5.2,
+                "Assists To Turnover Ratio": 2.26,
+                "Steals Per Game": 1.6,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 2.3,
+                "Points Per Game": 25.7
+            }
+        },
+        {
+            "player": "EvanMobley",
+            "team": "Cle",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 34.2,
+                "Field Goal Percentage": 0.517,
+                "Free Throw Percentage": 0.688,
+                "Three Pointers Per Game": 0.6,
+                "Rebounds Per Game": 9.5,
+                "Assists Per Game": 2.4,
+                "Assists To Turnover Ratio": 1.2,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 1.9,
+                "Turnovers Per Game": 2.0,
+                "Points Per Game": 17.3
+            }
+        },
+        {
+            "player": "ShaiGilgeous-Alexander",
+            "team": "OKC",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 69.0,
+                "Minutes Per Game": 34.8,
+                "Field Goal Percentage": 0.472,
+                "Free Throw Percentage": 0.814,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 5.0,
+                "Assists Per Game": 5.1,
+                "Assists To Turnover Ratio": 1.82,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 2.8,
+                "Points Per Game": 25.5
+            }
+        },
+        {
+            "player": "De'AaronFox",
+            "team": "Sac",
+            "position": "PG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 34.8,
+                "Field Goal Percentage": 0.474,
+                "Free Throw Percentage": 0.733,
+                "Three Pointers Per Game": 1.4,
+                "Rebounds Per Game": 3.8,
+                "Assists Per Game": 6.2,
+                "Assists To Turnover Ratio": 2.13,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 2.9,
+                "Points Per Game": 23.4
+            }
+        },
+        {
+            "player": "CJMcCollum",
+            "team": "NO",
+            "position": "SG",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 33.7,
+                "Field Goal Percentage": 0.459,
+                "Free Throw Percentage": 0.709,
+                "Three Pointers Per Game": 3.0,
+                "Rebounds Per Game": 4.1,
+                "Assists Per Game": 4.8,
+                "Assists To Turnover Ratio": 2.52,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.9,
+                "Points Per Game": 21.7
+            }
+        },
+        {
+            "player": "DesmondBane",
+            "team": "Mem",
+            "position": "SG",
+            "stats": {
+                "Games Played": 78.0,
+                "Minutes Per Game": 34.1,
+                "Field Goal Percentage": 0.462,
+                "Free Throw Percentage": 0.895,
+                "Three Pointers Per Game": 3.4,
+                "Rebounds Per Game": 5.0,
+                "Assists Per Game": 3.1,
+                "Assists To Turnover Ratio": 1.94,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 20.1
+            }
+        },
+        {
+            "player": "AlperenSengun",
+            "team": "Hou",
+            "position": "C",
+            "stats": {
+                "Games Played": 78.0,
+                "Minutes Per Game": 31.6,
+                "Field Goal Percentage": 0.48,
+                "Free Throw Percentage": 0.717,
+                "Three Pointers Per Game": 0.8,
+                "Rebounds Per Game": 8.3,
+                "Assists Per Game": 4.8,
+                "Assists To Turnover Ratio": 1.55,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 1.4,
+                "Turnovers Per Game": 3.1,
+                "Points Per Game": 15.0
+            }
+        },
+        {
+            "player": "TerryRozier",
+            "team": "Cha",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 34.0,
+                "Field Goal Percentage": 0.447,
+                "Free Throw Percentage": 0.837,
+                "Three Pointers Per Game": 3.1,
+                "Rebounds Per Game": 4.3,
+                "Assists Per Game": 4.3,
+                "Assists To Turnover Ratio": 2.69,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 19.8
+            }
+        },
+        {
+            "player": "BrandonIngram",
+            "team": "NO",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 33.5,
+                "Field Goal Percentage": 0.463,
+                "Free Throw Percentage": 0.846,
+                "Three Pointers Per Game": 1.8,
+                "Rebounds Per Game": 5.5,
+                "Assists Per Game": 5.1,
+                "Assists To Turnover Ratio": 1.89,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 2.7,
+                "Points Per Game": 22.8
+            }
+        },
+        {
+            "player": "JakobPoeltl",
+            "team": "SA",
+            "position": "C",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 30.5,
+                "Field Goal Percentage": 0.618,
+                "Free Throw Percentage": 0.496,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 9.7,
+                "Assists Per Game": 2.9,
+                "Assists To Turnover Ratio": 1.8,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 1.9,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 15.1
+            }
+        },
+        {
+            "player": "JimmyButler",
+            "team": "Mia",
+            "position": "SF,SG",
+            "stats": {
+                "Games Played": 65.0,
+                "Minutes Per Game": 33.8,
+                "Field Goal Percentage": 0.481,
+                "Free Throw Percentage": 0.861,
+                "Three Pointers Per Game": 0.5,
+                "Rebounds Per Game": 6.3,
+                "Assists Per Game": 6.0,
+                "Assists To Turnover Ratio": 2.85,
+                "Steals Per Game": 1.8,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 2.1,
+                "Points Per Game": 21.1
+            }
+        },
+        {
+            "player": "JaylenBrown",
+            "team": "Bos",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 34.5,
+                "Field Goal Percentage": 0.475,
+                "Free Throw Percentage": 0.757,
+                "Three Pointers Per Game": 2.6,
+                "Rebounds Per Game": 6.3,
+                "Assists Per Game": 3.5,
+                "Assists To Turnover Ratio": 1.3,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.7,
+                "Points Per Game": 24.2
+            }
+        },
+        {
+            "player": "BradleyBeal",
+            "team": "Wsh",
+            "position": "SG",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 35.3,
+                "Field Goal Percentage": 0.457,
+                "Free Throw Percentage": 0.844,
+                "Three Pointers Per Game": 1.7,
+                "Rebounds Per Game": 4.6,
+                "Assists Per Game": 6.2,
+                "Assists To Turnover Ratio": 1.88,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 3.3,
+                "Points Per Game": 24.4
+            }
+        },
+        {
+            "player": "ZachLaVine",
+            "team": "Chi",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 34.8,
+                "Field Goal Percentage": 0.478,
+                "Free Throw Percentage": 0.854,
+                "Three Pointers Per Game": 2.8,
+                "Rebounds Per Game": 4.6,
+                "Assists Per Game": 4.5,
+                "Assists To Turnover Ratio": 1.73,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 2.6,
+                "Points Per Game": 24.7
+            }
+        },
+        {
+            "player": "DonovanMitchell",
+            "team": "Cle",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 32.9,
+                "Field Goal Percentage": 0.456,
+                "Free Throw Percentage": 0.856,
+                "Three Pointers Per Game": 3.2,
+                "Rebounds Per Game": 4.2,
+                "Assists Per Game": 4.6,
+                "Assists To Turnover Ratio": 1.65,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 2.8,
+                "Points Per Game": 23.2
+            }
+        },
+        {
+            "player": "JonasValanciunas",
+            "team": "NO",
+            "position": "C",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 29.2,
+                "Field Goal Percentage": 0.561,
+                "Free Throw Percentage": 0.8,
+                "Three Pointers Per Game": 0.6,
+                "Rebounds Per Game": 11.7,
+                "Assists Per Game": 2.3,
+                "Assists To Turnover Ratio": 1.09,
+                "Steals Per Game": 0.5,
+                "Blocks Per Game": 0.9,
+                "Turnovers Per Game": 2.1,
+                "Points Per Game": 17.2
+            }
+        },
+        {
+            "player": "DeandreAyton",
+            "team": "Phx",
+            "position": "C",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 31.8,
+                "Field Goal Percentage": 0.622,
+                "Free Throw Percentage": 0.758,
+                "Three Pointers Per Game": 0.1,
+                "Rebounds Per Game": 11.0,
+                "Assists Per Game": 1.6,
+                "Assists To Turnover Ratio": 0.94,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 1.0,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 17.1
+            }
+        },
+        {
+            "player": "JamalMurray",
+            "team": "Den",
+            "position": "PG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 34.7,
+                "Field Goal Percentage": 0.471,
+                "Free Throw Percentage": 0.878,
+                "Three Pointers Per Game": 2.5,
+                "Rebounds Per Game": 4.0,
+                "Assists Per Game": 4.8,
+                "Assists To Turnover Ratio": 2.19,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.2,
+                "Points Per Game": 20.5
+            }
+        },
+        {
+            "player": "PaoloBanchero",
+            "team": "Orl",
+            "position": "PF",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 32.4,
+                "Field Goal Percentage": 0.467,
+                "Free Throw Percentage": 0.743,
+                "Three Pointers Per Game": 1.3,
+                "Rebounds Per Game": 8.0,
+                "Assists Per Game": 3.5,
+                "Assists To Turnover Ratio": 1.3,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 1.0,
+                "Turnovers Per Game": 2.7,
+                "Points Per Game": 19.5
+            }
+        },
+        {
+            "player": "KristapsPorzingis",
+            "team": "Wsh",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 63.0,
+                "Minutes Per Game": 29.4,
+                "Field Goal Percentage": 0.473,
+                "Free Throw Percentage": 0.866,
+                "Three Pointers Per Game": 1.7,
+                "Rebounds Per Game": 9.2,
+                "Assists Per Game": 2.2,
+                "Assists To Turnover Ratio": 1.38,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 1.7,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 22.2
+            }
+        },
+        {
+            "player": "KevinPorterJr.",
+            "team": "Hou",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 33.9,
+                "Field Goal Percentage": 0.441,
+                "Free Throw Percentage": 0.69,
+                "Three Pointers Per Game": 3.0,
+                "Rebounds Per Game": 4.7,
+                "Assists Per Game": 6.6,
+                "Assists To Turnover Ratio": 1.94,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 3.4,
+                "Points Per Game": 19.3
+            }
+        },
+        {
+            "player": "JoshGiddey",
+            "team": "OKC",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 34.2,
+                "Field Goal Percentage": 0.428,
+                "Free Throw Percentage": 0.726,
+                "Three Pointers Per Game": 1.4,
+                "Rebounds Per Game": 8.4,
+                "Assists Per Game": 8.0,
+                "Assists To Turnover Ratio": 2.35,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 3.4,
+                "Points Per Game": 14.0
+            }
+        },
+        {
+            "player": "CollinSexton",
+            "team": "Utah",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 35.6,
+                "Field Goal Percentage": 0.474,
+                "Free Throw Percentage": 0.815,
+                "Three Pointers Per Game": 1.6,
+                "Rebounds Per Game": 3.2,
+                "Assists Per Game": 4.3,
+                "Assists To Turnover Ratio": 1.54,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 2.8,
+                "Points Per Game": 24.3
+            }
+        },
+        {
+            "player": "ChrisPaul",
+            "team": "Phx",
+            "position": "PG",
+            "stats": {
+                "Games Played": 63.0,
+                "Minutes Per Game": 31.2,
+                "Field Goal Percentage": 0.495,
+                "Free Throw Percentage": 0.873,
+                "Three Pointers Per Game": 1.2,
+                "Rebounds Per Game": 4.3,
+                "Assists Per Game": 9.3,
+                "Assists To Turnover Ratio": 4.22,
+                "Steals Per Game": 1.6,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.2,
+                "Points Per Game": 15.2
+            }
+        },
+        {
+            "player": "KhrisMiddleton",
+            "team": "Mil",
+            "position": "SF",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 32.4,
+                "Field Goal Percentage": 0.459,
+                "Free Throw Percentage": 0.894,
+                "Three Pointers Per Game": 2.4,
+                "Rebounds Per Game": 5.7,
+                "Assists Per Game": 5.3,
+                "Assists To Turnover Ratio": 1.96,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 2.7,
+                "Points Per Game": 20.3
+            }
+        },
+        {
+            "player": "D'AngeloRussell",
+            "team": "Min",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 32.7,
+                "Field Goal Percentage": 0.416,
+                "Free Throw Percentage": 0.811,
+                "Three Pointers Per Game": 3.0,
+                "Rebounds Per Game": 3.3,
+                "Assists Per Game": 7.4,
+                "Assists To Turnover Ratio": 2.75,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 2.7,
+                "Points Per Game": 18.2
+            }
+        },
+        {
+            "player": "BenSimmons",
+            "team": "Bkn",
+            "position": "PG",
+            "stats": {
+                "Games Played": 63.0,
+                "Minutes Per Game": 34.0,
+                "Field Goal Percentage": 0.573,
+                "Free Throw Percentage": 0.62,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 7.5,
+                "Assists Per Game": 7.5,
+                "Assists To Turnover Ratio": 2.27,
+                "Steals Per Game": 1.9,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 3.3,
+                "Points Per Game": 15.4
+            }
+        },
+        {
+            "player": "RussellWestbrook",
+            "team": "LAL",
+            "position": "PG",
+            "stats": {
+                "Games Played": 78.0,
+                "Minutes Per Game": 31.8,
+                "Field Goal Percentage": 0.445,
+                "Free Throw Percentage": 0.671,
+                "Three Pointers Per Game": 0.9,
+                "Rebounds Per Game": 7.1,
+                "Assists Per Game": 6.8,
+                "Assists To Turnover Ratio": 1.89,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 3.6,
+                "Points Per Game": 17.4
+            }
+        },
+        {
+            "player": "BuddyHield",
+            "team": "Ind",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 34.6,
+                "Field Goal Percentage": 0.41,
+                "Free Throw Percentage": 0.863,
+                "Three Pointers Per Game": 3.8,
+                "Rebounds Per Game": 4.9,
+                "Assists Per Game": 4.2,
+                "Assists To Turnover Ratio": 1.99,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 2.1,
+                "Points Per Game": 17.7
+            }
+        },
+        {
+            "player": "JalenGreen",
+            "team": "Hou",
+            "position": "SG",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 34.6,
+                "Field Goal Percentage": 0.452,
+                "Free Throw Percentage": 0.802,
+                "Three Pointers Per Game": 3.4,
+                "Rebounds Per Game": 3.7,
+                "Assists Per Game": 2.8,
+                "Assists To Turnover Ratio": 1.27,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.2,
+                "Points Per Game": 23.6
+            }
+        },
+        {
+            "player": "AndrewWiggins",
+            "team": "GS",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 78.0,
+                "Minutes Per Game": 34.0,
+                "Field Goal Percentage": 0.466,
+                "Free Throw Percentage": 0.641,
+                "Three Pointers Per Game": 2.3,
+                "Rebounds Per Game": 4.8,
+                "Assists Per Game": 2.4,
+                "Assists To Turnover Ratio": 1.5,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 18.4
+            }
+        },
+        {
+            "player": "KeeganMurray",
+            "team": "Sac",
+            "position": "PF",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 31.4,
+                "Field Goal Percentage": 0.487,
+                "Free Throw Percentage": 0.752,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 7.0,
+                "Assists Per Game": 1.5,
+                "Assists To Turnover Ratio": 0.79,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 1.1,
+                "Turnovers Per Game": 1.9,
+                "Points Per Game": 18.4
+            }
+        },
+        {
+            "player": "KyleKuzma",
+            "team": "Wsh",
+            "position": "PF,SF",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 33.6,
+                "Field Goal Percentage": 0.451,
+                "Free Throw Percentage": 0.713,
+                "Three Pointers Per Game": 2.0,
+                "Rebounds Per Game": 8.9,
+                "Assists Per Game": 3.4,
+                "Assists To Turnover Ratio": 1.36,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 2.5,
+                "Points Per Game": 17.1
+            }
+        },
+        {
+            "player": "SaddiqBey",
+            "team": "Det",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 34.4,
+                "Field Goal Percentage": 0.419,
+                "Free Throw Percentage": 0.83,
+                "Three Pointers Per Game": 3.1,
+                "Rebounds Per Game": 5.6,
+                "Assists Per Game": 2.8,
+                "Assists To Turnover Ratio": 2.35,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.2,
+                "Points Per Game": 19.0
+            }
+        },
+        {
+            "player": "LauriMarkkanen",
+            "team": "Utah",
+            "position": "PF,SF",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 34.4,
+                "Field Goal Percentage": 0.457,
+                "Free Throw Percentage": 0.865,
+                "Three Pointers Per Game": 2.8,
+                "Rebounds Per Game": 8.3,
+                "Assists Per Game": 1.5,
+                "Assists To Turnover Ratio": 1.37,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 1.1,
+                "Points Per Game": 18.8
+            }
+        },
+        {
+            "player": "TyreseMaxey",
+            "team": "Phi",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 34.4,
+                "Field Goal Percentage": 0.492,
+                "Free Throw Percentage": 0.866,
+                "Three Pointers Per Game": 2.0,
+                "Rebounds Per Game": 2.7,
+                "Assists Per Game": 3.6,
+                "Assists To Turnover Ratio": 3.01,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.2,
+                "Points Per Game": 18.8
+            }
+        },
+        {
+            "player": "JarrettAllen",
+            "team": "Cle",
+            "position": "C",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 31.7,
+                "Field Goal Percentage": 0.672,
+                "Free Throw Percentage": 0.703,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 10.6,
+                "Assists Per Game": 1.6,
+                "Assists To Turnover Ratio": 1.0,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 1.3,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 14.0
+            }
+        },
+        {
+            "player": "DevinVassell",
+            "team": "SA",
+            "position": "SF,SG",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 34.1,
+                "Field Goal Percentage": 0.435,
+                "Free Throw Percentage": 0.845,
+                "Three Pointers Per Game": 2.4,
+                "Rebounds Per Game": 5.4,
+                "Assists Per Game": 2.4,
+                "Assists To Turnover Ratio": 2.39,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 0.7,
+                "Turnovers Per Game": 1.0,
+                "Points Per Game": 15.4
+            }
+        },
+        {
+            "player": "MylesTurner",
+            "team": "Ind",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 30.0,
+                "Field Goal Percentage": 0.488,
+                "Free Throw Percentage": 0.76,
+                "Three Pointers Per Game": 1.5,
+                "Rebounds Per Game": 6.8,
+                "Assists Per Game": 1.1,
+                "Assists To Turnover Ratio": 0.85,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 2.9,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 12.6
+            }
+        },
+        {
+            "player": "TylerHerro",
+            "team": "Mia",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 33.6,
+                "Field Goal Percentage": 0.446,
+                "Free Throw Percentage": 0.863,
+                "Three Pointers Per Game": 2.7,
+                "Rebounds Per Game": 5.1,
+                "Assists Per Game": 4.0,
+                "Assists To Turnover Ratio": 1.48,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.1,
+                "Turnovers Per Game": 2.7,
+                "Points Per Game": 20.9
+            }
+        },
+        {
+            "player": "SpencerDinwiddie",
+            "team": "Dal",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 32.3,
+                "Field Goal Percentage": 0.415,
+                "Free Throw Percentage": 0.773,
+                "Three Pointers Per Game": 2.0,
+                "Rebounds Per Game": 3.9,
+                "Assists Per Game": 6.6,
+                "Assists To Turnover Ratio": 2.64,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.5,
+                "Points Per Game": 19.4
+            }
+        },
+        {
+            "player": "JusufNurkic",
+            "team": "Por",
+            "position": "C",
+            "stats": {
+                "Games Played": 68.0,
+                "Minutes Per Game": 29.3,
+                "Field Goal Percentage": 0.531,
+                "Free Throw Percentage": 0.678,
+                "Three Pointers Per Game": 0.3,
+                "Rebounds Per Game": 11.4,
+                "Assists Per Game": 3.2,
+                "Assists To Turnover Ratio": 1.23,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 2.6,
+                "Points Per Game": 15.3
+            }
+        },
+        {
+            "player": "BobbyPortis",
+            "team": "Mil",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 28.7,
+                "Field Goal Percentage": 0.482,
+                "Free Throw Percentage": 0.756,
+                "Three Pointers Per Game": 1.8,
+                "Rebounds Per Game": 9.3,
+                "Assists Per Game": 1.3,
+                "Assists To Turnover Ratio": 1.0,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.7,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 14.9
+            }
+        },
+        {
+            "player": "KeldonJohnson",
+            "team": "SA",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 35.2,
+                "Field Goal Percentage": 0.467,
+                "Free Throw Percentage": 0.756,
+                "Three Pointers Per Game": 2.2,
+                "Rebounds Per Game": 6.8,
+                "Assists Per Game": 2.3,
+                "Assists To Turnover Ratio": 1.65,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.4,
+                "Points Per Game": 18.5
+            }
+        },
+        {
+            "player": "FranzWagner",
+            "team": "Orl",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 31.4,
+                "Field Goal Percentage": 0.472,
+                "Free Throw Percentage": 0.87,
+                "Three Pointers Per Game": 1.6,
+                "Rebounds Per Game": 4.9,
+                "Assists Per Game": 2.6,
+                "Assists To Turnover Ratio": 1.72,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 1.5,
+                "Points Per Game": 16.7
+            }
+        },
+        {
+            "player": "JordanPoole",
+            "team": "GS",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 78.0,
+                "Minutes Per Game": 30.5,
+                "Field Goal Percentage": 0.446,
+                "Free Throw Percentage": 0.923,
+                "Three Pointers Per Game": 2.8,
+                "Rebounds Per Game": 3.4,
+                "Assists Per Game": 4.0,
+                "Assists To Turnover Ratio": 1.6,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.5,
+                "Points Per Game": 18.6
+            }
+        },
+        {
+            "player": "MichaelPorterJr.",
+            "team": "Den",
+            "position": "SF",
+            "stats": {
+                "Games Played": 64.0,
+                "Minutes Per Game": 32.6,
+                "Field Goal Percentage": 0.538,
+                "Free Throw Percentage": 0.789,
+                "Three Pointers Per Game": 2.8,
+                "Rebounds Per Game": 7.7,
+                "Assists Per Game": 1.2,
+                "Assists To Turnover Ratio": 0.93,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.9,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 19.6
+            }
+        },
+        {
+            "player": "ChristianWood",
+            "team": "Dal",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 70.0,
+                "Minutes Per Game": 28.9,
+                "Field Goal Percentage": 0.506,
+                "Free Throw Percentage": 0.629,
+                "Three Pointers Per Game": 1.8,
+                "Rebounds Per Game": 9.2,
+                "Assists Per Game": 2.0,
+                "Assists To Turnover Ratio": 1.18,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.9,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 17.3
+            }
+        },
+        {
+            "player": "JohnCollins",
+            "team": "Atl",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 69.0,
+                "Minutes Per Game": 30.5,
+                "Field Goal Percentage": 0.543,
+                "Free Throw Percentage": 0.81,
+                "Three Pointers Per Game": 1.3,
+                "Rebounds Per Game": 7.9,
+                "Assists Per Game": 1.6,
+                "Assists To Turnover Ratio": 1.22,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 1.1,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 17.2
+            }
+        },
+        {
+            "player": "JalenSuggs",
+            "team": "Orl",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 32.3,
+                "Field Goal Percentage": 0.419,
+                "Free Throw Percentage": 0.778,
+                "Three Pointers Per Game": 1.7,
+                "Rebounds Per Game": 4.3,
+                "Assists Per Game": 5.5,
+                "Assists To Turnover Ratio": 1.57,
+                "Steals Per Game": 1.7,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 3.5,
+                "Points Per Game": 16.6
+            }
+        },
+        {
+            "player": "MikalBridges",
+            "team": "Phx",
+            "position": "SF",
+            "stats": {
+                "Games Played": 79.0,
+                "Minutes Per Game": 34.1,
+                "Field Goal Percentage": 0.535,
+                "Free Throw Percentage": 0.84,
+                "Three Pointers Per Game": 1.5,
+                "Rebounds Per Game": 4.3,
+                "Assists Per Game": 2.2,
+                "Assists To Turnover Ratio": 2.45,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 13.7
+            }
+        },
+        {
+            "player": "MalcolmBrogdon",
+            "team": "Bos",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 67.0,
+                "Minutes Per Game": 30.8,
+                "Field Goal Percentage": 0.44,
+                "Free Throw Percentage": 0.89,
+                "Three Pointers Per Game": 1.4,
+                "Rebounds Per Game": 4.7,
+                "Assists Per Game": 7.6,
+                "Assists To Turnover Ratio": 3.31,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 2.3,
+                "Points Per Game": 16.6
+            }
+        },
+        {
+            "player": "KlayThompson",
+            "team": "GS",
+            "position": "SG",
+            "stats": {
+                "Games Played": 66.0,
+                "Minutes Per Game": 31.3,
+                "Field Goal Percentage": 0.443,
+                "Free Throw Percentage": 0.902,
+                "Three Pointers Per Game": 3.8,
+                "Rebounds Per Game": 4.2,
+                "Assists Per Game": 2.9,
+                "Assists To Turnover Ratio": 2.08,
+                "Steals Per Game": 0.5,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 1.4,
+                "Points Per Game": 22.3
+            }
+        },
+        {
+            "player": "TobiasHarris",
+            "team": "Phi",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 32.7,
+                "Field Goal Percentage": 0.485,
+                "Free Throw Percentage": 0.846,
+                "Three Pointers Per Game": 1.1,
+                "Rebounds Per Game": 6.4,
+                "Assists Per Game": 3.3,
+                "Assists To Turnover Ratio": 2.19,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 1.5,
+                "Points Per Game": 14.9
+            }
+        },
+        {
+            "player": "JoshHart",
+            "team": "Por",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 33.3,
+                "Field Goal Percentage": 0.493,
+                "Free Throw Percentage": 0.757,
+                "Three Pointers Per Game": 1.5,
+                "Rebounds Per Game": 7.5,
+                "Assists Per Game": 3.9,
+                "Assists To Turnover Ratio": 1.95,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.0,
+                "Points Per Game": 14.4
+            }
+        },
+        {
+            "player": "TreJones",
+            "team": "SA",
+            "position": "PG",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 31.7,
+                "Field Goal Percentage": 0.493,
+                "Free Throw Percentage": 0.795,
+                "Three Pointers Per Game": 0.4,
+                "Rebounds Per Game": 4.2,
+                "Assists Per Game": 6.4,
+                "Assists To Turnover Ratio": 4.94,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 11.6
+            }
+        },
+        {
+            "player": "OGAnunoby",
+            "team": "Tor",
+            "position": "SF",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 35.1,
+                "Field Goal Percentage": 0.45,
+                "Free Throw Percentage": 0.755,
+                "Three Pointers Per Game": 2.3,
+                "Rebounds Per Game": 5.5,
+                "Assists Per Game": 2.5,
+                "Assists To Turnover Ratio": 1.56,
+                "Steals Per Game": 1.5,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 16.3
+            }
+        },
+        {
+            "player": "BrandonClarke",
+            "team": "Mem",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 25.7,
+                "Field Goal Percentage": 0.6,
+                "Free Throw Percentage": 0.682,
+                "Three Pointers Per Game": 0.3,
+                "Rebounds Per Game": 6.7,
+                "Assists Per Game": 1.7,
+                "Assists To Turnover Ratio": 2.44,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 1.2,
+                "Turnovers Per Game": 0.7,
+                "Points Per Game": 12.9
+            }
+        },
+        {
+            "player": "AnferneeSimons",
+            "team": "Por",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 34.6,
+                "Field Goal Percentage": 0.439,
+                "Free Throw Percentage": 0.873,
+                "Three Pointers Per Game": 3.6,
+                "Rebounds Per Game": 3.3,
+                "Assists Per Game": 4.3,
+                "Assists To Turnover Ratio": 1.96,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 0.1,
+                "Turnovers Per Game": 2.2,
+                "Points Per Game": 19.5
+            }
+        },
+        {
+            "player": "MitchellRobinson",
+            "team": "NY",
+            "position": "C",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 28.5,
+                "Field Goal Percentage": 0.736,
+                "Free Throw Percentage": 0.497,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 9.2,
+                "Assists Per Game": 0.6,
+                "Assists To Turnover Ratio": 0.67,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 2.0,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 9.5
+            }
+        },
+        {
+            "player": "ClintCapela",
+            "team": "Atl",
+            "position": "C",
+            "stats": {
+                "Games Played": 69.0,
+                "Minutes Per Game": 27.1,
+                "Field Goal Percentage": 0.609,
+                "Free Throw Percentage": 0.514,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 11.1,
+                "Assists Per Game": 1.0,
+                "Assists To Turnover Ratio": 1.25,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 1.4,
+                "Turnovers Per Game": 0.8,
+                "Points Per Game": 11.8
+            }
+        },
+        {
+            "player": "GaryTrentJr.",
+            "team": "Tor",
+            "position": "SG",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 34.1,
+                "Field Goal Percentage": 0.414,
+                "Free Throw Percentage": 0.847,
+                "Three Pointers Per Game": 2.9,
+                "Rebounds Per Game": 2.7,
+                "Assists Per Game": 1.9,
+                "Assists To Turnover Ratio": 1.91,
+                "Steals Per Game": 1.6,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 1.0,
+                "Points Per Game": 17.6
+            }
+        },
+        {
+            "player": "ChrisBoucher",
+            "team": "Tor",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 24.8,
+                "Field Goal Percentage": 0.49,
+                "Free Throw Percentage": 0.78,
+                "Three Pointers Per Game": 1.3,
+                "Rebounds Per Game": 7.1,
+                "Assists Per Game": 0.7,
+                "Assists To Turnover Ratio": 1.0,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 1.5,
+                "Turnovers Per Game": 0.7,
+                "Points Per Game": 12.5
+            }
+        },
+        {
+            "player": "RJBarrett",
+            "team": "NY",
+            "position": "SF",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 34.4,
+                "Field Goal Percentage": 0.412,
+                "Free Throw Percentage": 0.714,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 5.8,
+                "Assists Per Game": 3.0,
+                "Assists To Turnover Ratio": 1.43,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 2.1,
+                "Points Per Game": 20.2
+            }
+        },
+        {
+            "player": "P.J.Washington",
+            "team": "Cha",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 31.9,
+                "Field Goal Percentage": 0.459,
+                "Free Throw Percentage": 0.73,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 6.3,
+                "Assists Per Game": 2.6,
+                "Assists To Turnover Ratio": 1.53,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 1.1,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 12.4
+            }
+        },
+        {
+            "player": "MonteMorris",
+            "team": "Wsh",
+            "position": "PG",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 30.9,
+                "Field Goal Percentage": 0.481,
+                "Free Throw Percentage": 0.842,
+                "Three Pointers Per Game": 1.6,
+                "Rebounds Per Game": 2.9,
+                "Assists Per Game": 5.4,
+                "Assists To Turnover Ratio": 5.4,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.0,
+                "Points Per Game": 12.8
+            }
+        },
+        {
+            "player": "MikeConley",
+            "team": "Utah",
+            "position": "PG",
+            "stats": {
+                "Games Played": 69.0,
+                "Minutes Per Game": 28.7,
+                "Field Goal Percentage": 0.435,
+                "Free Throw Percentage": 0.807,
+                "Three Pointers Per Game": 2.4,
+                "Rebounds Per Game": 3.1,
+                "Assists Per Game": 5.4,
+                "Assists To Turnover Ratio": 3.01,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 14.3
+            }
+        },
+        {
+            "player": "WendellCarterJr.",
+            "team": "Orl",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 28.6,
+                "Field Goal Percentage": 0.519,
+                "Free Throw Percentage": 0.706,
+                "Three Pointers Per Game": 0.8,
+                "Rebounds Per Game": 9.7,
+                "Assists Per Game": 2.3,
+                "Assists To Turnover Ratio": 1.36,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 0.7,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 13.6
+            }
+        },
+        {
+            "player": "DraymondGreen",
+            "team": "GS",
+            "position": "PF",
+            "stats": {
+                "Games Played": 68.0,
+                "Minutes Per Game": 28.1,
+                "Field Goal Percentage": 0.513,
+                "Free Throw Percentage": 0.674,
+                "Three Pointers Per Game": 0.4,
+                "Rebounds Per Game": 7.0,
+                "Assists Per Game": 6.9,
+                "Assists To Turnover Ratio": 2.38,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 1.0,
+                "Turnovers Per Game": 2.9,
+                "Points Per Game": 7.3
+            }
+        },
+        {
+            "player": "RobertWilliamsIII",
+            "team": "Bos",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 56.0,
+                "Minutes Per Game": 30.4,
+                "Field Goal Percentage": 0.734,
+                "Free Throw Percentage": 0.711,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 10.0,
+                "Assists Per Game": 2.1,
+                "Assists To Turnover Ratio": 1.9,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 2.3,
+                "Turnovers Per Game": 1.1,
+                "Points Per Game": 10.4
+            }
+        },
+        {
+            "player": "KellyOubreJr.",
+            "team": "Cha",
+            "position": "PF,SG",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 29.3,
+                "Field Goal Percentage": 0.44,
+                "Free Throw Percentage": 0.677,
+                "Three Pointers Per Game": 2.5,
+                "Rebounds Per Game": 4.8,
+                "Assists Per Game": 1.2,
+                "Assists To Turnover Ratio": 1.2,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 1.0,
+                "Points Per Game": 16.2
+            }
+        },
+        {
+            "player": "JadenIvey",
+            "team": "Det",
+            "position": "PG",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 30.7,
+                "Field Goal Percentage": 0.454,
+                "Free Throw Percentage": 0.755,
+                "Three Pointers Per Game": 1.8,
+                "Rebounds Per Game": 4.5,
+                "Assists Per Game": 4.0,
+                "Assists To Turnover Ratio": 1.6,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 2.5,
+                "Points Per Game": 15.5
+            }
+        },
+        {
+            "player": "MalikBeasley",
+            "team": "Utah",
+            "position": "SG",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 32.2,
+                "Field Goal Percentage": 0.433,
+                "Free Throw Percentage": 0.844,
+                "Three Pointers Per Game": 3.5,
+                "Rebounds Per Game": 4.2,
+                "Assists Per Game": 2.3,
+                "Assists To Turnover Ratio": 1.52,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.5,
+                "Points Per Game": 18.5
+            }
+        },
+        {
+            "player": "JalenSmith",
+            "team": "Ind",
+            "position": "PF",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 28.9,
+                "Field Goal Percentage": 0.503,
+                "Free Throw Percentage": 0.775,
+                "Three Pointers Per Game": 1.3,
+                "Rebounds Per Game": 8.5,
+                "Assists Per Game": 0.7,
+                "Assists To Turnover Ratio": 0.54,
+                "Steals Per Game": 0.4,
+                "Blocks Per Game": 1.3,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 14.5
+            }
+        },
+        {
+            "player": "IvicaZubac",
+            "team": "LAC",
+            "position": "C",
+            "stats": {
+                "Games Played": 78.0,
+                "Minutes Per Game": 25.2,
+                "Field Goal Percentage": 0.629,
+                "Free Throw Percentage": 0.748,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 8.7,
+                "Assists Per Game": 1.6,
+                "Assists To Turnover Ratio": 1.15,
+                "Steals Per Game": 0.4,
+                "Blocks Per Game": 1.1,
+                "Turnovers Per Game": 1.4,
+                "Points Per Game": 10.6
+            }
+        },
+        {
+            "player": "MontrezlHarrell",
+            "team": "Phi",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 23.4,
+                "Field Goal Percentage": 0.635,
+                "Free Throw Percentage": 0.712,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 6.2,
+                "Assists Per Game": 1.9,
+                "Assists To Turnover Ratio": 1.71,
+                "Steals Per Game": 0.5,
+                "Blocks Per Game": 0.7,
+                "Turnovers Per Game": 1.1,
+                "Points Per Game": 13.6
+            }
+        },
+        {
+            "player": "MarcusSmart",
+            "team": "Bos",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 68.0,
+                "Minutes Per Game": 31.3,
+                "Field Goal Percentage": 0.422,
+                "Free Throw Percentage": 0.797,
+                "Three Pointers Per Game": 2.1,
+                "Rebounds Per Game": 3.7,
+                "Assists Per Game": 4.7,
+                "Assists To Turnover Ratio": 2.24,
+                "Steals Per Game": 1.6,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.1,
+                "Points Per Game": 14.1
+            }
+        },
+        {
+            "player": "DillonBrooks",
+            "team": "Mem",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 31.3,
+                "Field Goal Percentage": 0.421,
+                "Free Throw Percentage": 0.829,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 3.4,
+                "Assists Per Game": 2.6,
+                "Assists To Turnover Ratio": 1.45,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 18.9
+            }
+        },
+        {
+            "player": "KevinHuerter",
+            "team": "Sac",
+            "position": "SG",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 32.1,
+                "Field Goal Percentage": 0.443,
+                "Free Throw Percentage": 0.809,
+                "Three Pointers Per Game": 2.3,
+                "Rebounds Per Game": 3.7,
+                "Assists Per Game": 3.3,
+                "Assists To Turnover Ratio": 2.54,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 12.9
+            }
+        },
+        {
+            "player": "JeramiGrant",
+            "team": "Por",
+            "position": "PF,SF",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 31.2,
+                "Field Goal Percentage": 0.432,
+                "Free Throw Percentage": 0.83,
+                "Three Pointers Per Game": 1.7,
+                "Rebounds Per Game": 4.1,
+                "Assists Per Game": 2.3,
+                "Assists To Turnover Ratio": 1.36,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 1.0,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 16.6
+            }
+        },
+        {
+            "player": "KyleLowry",
+            "team": "Mia",
+            "position": "PG",
+            "stats": {
+                "Games Played": 62.0,
+                "Minutes Per Game": 31.5,
+                "Field Goal Percentage": 0.435,
+                "Free Throw Percentage": 0.859,
+                "Three Pointers Per Game": 2.3,
+                "Rebounds Per Game": 4.3,
+                "Assists Per Game": 6.9,
+                "Assists To Turnover Ratio": 2.76,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.5,
+                "Points Per Game": 13.9
+            }
+        },
+        {
+            "player": "AndreDrummond",
+            "team": "Chi",
+            "position": "C",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 20.3,
+                "Field Goal Percentage": 0.562,
+                "Free Throw Percentage": 0.53,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 9.6,
+                "Assists Per Game": 1.8,
+                "Assists To Turnover Ratio": 1.06,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 1.0,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 8.5
+            }
+        },
+        {
+            "player": "DennisSchroder",
+            "team": "LAL",
+            "position": "PG",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 31.1,
+                "Field Goal Percentage": 0.439,
+                "Free Throw Percentage": 0.851,
+                "Three Pointers Per Game": 1.4,
+                "Rebounds Per Game": 3.6,
+                "Assists Per Game": 5.0,
+                "Assists To Turnover Ratio": 1.99,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 2.5,
+                "Points Per Game": 15.4
+            }
+        },
+        {
+            "player": "GordonHayward",
+            "team": "Cha",
+            "position": "SF",
+            "stats": {
+                "Games Played": 64.0,
+                "Minutes Per Game": 31.4,
+                "Field Goal Percentage": 0.468,
+                "Free Throw Percentage": 0.839,
+                "Three Pointers Per Game": 1.8,
+                "Rebounds Per Game": 5.0,
+                "Assists Per Game": 3.7,
+                "Assists To Turnover Ratio": 2.06,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 16.9
+            }
+        },
+        {
+            "player": "HarrisonBarnes",
+            "team": "Sac",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 32.4,
+                "Field Goal Percentage": 0.475,
+                "Free Throw Percentage": 0.825,
+                "Three Pointers Per Game": 1.6,
+                "Rebounds Per Game": 5.4,
+                "Assists Per Game": 2.5,
+                "Assists To Turnover Ratio": 1.79,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.4,
+                "Points Per Game": 15.1
+            }
+        },
+        {
+            "player": "HerbertJones",
+            "team": "NO",
+            "position": "PF,SF",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 31.6,
+                "Field Goal Percentage": 0.481,
+                "Free Throw Percentage": 0.85,
+                "Three Pointers Per Game": 0.8,
+                "Rebounds Per Game": 4.0,
+                "Assists Per Game": 2.3,
+                "Assists To Turnover Ratio": 1.65,
+                "Steals Per Game": 1.8,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 1.4,
+                "Points Per Game": 10.2
+            }
+        },
+        {
+            "player": "JordanClarkson",
+            "team": "Utah",
+            "position": "SG",
+            "stats": {
+                "Games Played": 78.0,
+                "Minutes Per Game": 26.7,
+                "Field Goal Percentage": 0.426,
+                "Free Throw Percentage": 0.849,
+                "Three Pointers Per Game": 2.6,
+                "Rebounds Per Game": 3.5,
+                "Assists Per Game": 2.4,
+                "Assists To Turnover Ratio": 1.5,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 16.6
+            }
+        },
+        {
+            "player": "JonathanIsaac",
+            "team": "Orl",
+            "position": "PF,SF",
+            "stats": {
+                "Games Played": 65.0,
+                "Minutes Per Game": 26.5,
+                "Field Goal Percentage": 0.463,
+                "Free Throw Percentage": 0.769,
+                "Three Pointers Per Game": 0.8,
+                "Rebounds Per Game": 6.2,
+                "Assists Per Game": 1.2,
+                "Assists To Turnover Ratio": 0.92,
+                "Steals Per Game": 1.4,
+                "Blocks Per Game": 2.2,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 10.7
+            }
+        },
+        {
+            "player": "DerrickWhite",
+            "team": "Bos",
+            "position": "PG,SG",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 27.6,
+                "Field Goal Percentage": 0.422,
+                "Free Throw Percentage": 0.865,
+                "Three Pointers Per Game": 1.5,
+                "Rebounds Per Game": 3.3,
+                "Assists Per Game": 4.5,
+                "Assists To Turnover Ratio": 3.0,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 1.5,
+                "Points Per Game": 11.7
+            }
+        },
+        {
+            "player": "BogdanBogdanovic",
+            "team": "Atl",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 68.0,
+                "Minutes Per Game": 29.3,
+                "Field Goal Percentage": 0.441,
+                "Free Throw Percentage": 0.828,
+                "Three Pointers Per Game": 2.8,
+                "Rebounds Per Game": 3.8,
+                "Assists Per Game": 3.2,
+                "Assists To Turnover Ratio": 2.66,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.2,
+                "Points Per Game": 15.3
+            }
+        },
+        {
+            "player": "StevenAdams",
+            "team": "Mem",
+            "position": "C",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 26.7,
+                "Field Goal Percentage": 0.573,
+                "Free Throw Percentage": 0.525,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 9.6,
+                "Assists Per Game": 2.9,
+                "Assists To Turnover Ratio": 1.93,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 1.5,
+                "Points Per Game": 7.6
+            }
+        },
+        {
+            "player": "NicClaxton",
+            "team": "Bkn",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 67.0,
+                "Minutes Per Game": 28.6,
+                "Field Goal Percentage": 0.671,
+                "Free Throw Percentage": 0.571,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 8.2,
+                "Assists Per Game": 1.3,
+                "Assists To Turnover Ratio": 1.18,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 1.5,
+                "Turnovers Per Game": 1.1,
+                "Points Per Game": 10.6
+            }
+        },
+        {
+            "player": "JabariSmithJr.",
+            "team": "Hou",
+            "position": "PF",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 30.2,
+                "Field Goal Percentage": 0.43,
+                "Free Throw Percentage": 0.803,
+                "Three Pointers Per Game": 2.0,
+                "Rebounds Per Game": 6.5,
+                "Assists Per Game": 1.5,
+                "Assists To Turnover Ratio": 0.83,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 1.1,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 14.3
+            }
+        },
+        {
+            "player": "ColeAnthony",
+            "team": "Orl",
+            "position": "PG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 28.7,
+                "Field Goal Percentage": 0.393,
+                "Free Throw Percentage": 0.849,
+                "Three Pointers Per Game": 1.7,
+                "Rebounds Per Game": 4.9,
+                "Assists Per Game": 5.0,
+                "Assists To Turnover Ratio": 2.08,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.4,
+                "Points Per Game": 14.6
+            }
+        },
+        {
+            "player": "JohnWall",
+            "team": "LAC",
+            "position": "PG",
+            "stats": {
+                "Games Played": 62.0,
+                "Minutes Per Game": 31.5,
+                "Field Goal Percentage": 0.415,
+                "Free Throw Percentage": 0.776,
+                "Three Pointers Per Game": 1.8,
+                "Rebounds Per Game": 2.9,
+                "Assists Per Game": 6.3,
+                "Assists To Turnover Ratio": 1.85,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.7,
+                "Turnovers Per Game": 3.4,
+                "Points Per Game": 16.3
+            }
+        },
+        {
+            "player": "BonesHyland",
+            "team": "Den",
+            "position": "PG",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 23.9,
+                "Field Goal Percentage": 0.414,
+                "Free Throw Percentage": 0.853,
+                "Three Pointers Per Game": 2.4,
+                "Rebounds Per Game": 3.4,
+                "Assists Per Game": 3.5,
+                "Assists To Turnover Ratio": 2.2,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 13.0
+            }
+        },
+        {
+            "player": "AaronGordon",
+            "team": "Den",
+            "position": "PF",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 29.3,
+                "Field Goal Percentage": 0.476,
+                "Free Throw Percentage": 0.677,
+                "Three Pointers Per Game": 1.2,
+                "Rebounds Per Game": 5.9,
+                "Assists Per Game": 3.1,
+                "Assists To Turnover Ratio": 1.72,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 13.3
+            }
+        },
+        {
+            "player": "LuguentzDort",
+            "team": "OKC",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 33.1,
+                "Field Goal Percentage": 0.414,
+                "Free Throw Percentage": 0.839,
+                "Three Pointers Per Game": 2.6,
+                "Rebounds Per Game": 4.2,
+                "Assists Per Game": 1.7,
+                "Assists To Turnover Ratio": 1.0,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 17.6
+            }
+        },
+        {
+            "player": "T.J.McConnell",
+            "team": "Ind",
+            "position": "PG",
+            "stats": {
+                "Games Played": 70.0,
+                "Minutes Per Game": 23.9,
+                "Field Goal Percentage": 0.522,
+                "Free Throw Percentage": 0.776,
+                "Three Pointers Per Game": 0.2,
+                "Rebounds Per Game": 3.4,
+                "Assists Per Game": 5.7,
+                "Assists To Turnover Ratio": 3.8,
+                "Steals Per Game": 1.4,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 1.5,
+                "Points Per Game": 8.1
+            }
+        },
+        {
+            "player": "AlHorford",
+            "team": "Bos",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 64.0,
+                "Minutes Per Game": 27.3,
+                "Field Goal Percentage": 0.463,
+                "Free Throw Percentage": 0.831,
+                "Three Pointers Per Game": 1.3,
+                "Rebounds Per Game": 7.1,
+                "Assists Per Game": 3.2,
+                "Assists To Turnover Ratio": 3.53,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 1.2,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 9.8
+            }
+        },
+        {
+            "player": "OnyekaOkongwu",
+            "team": "Atl",
+            "position": "C",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 23.6,
+                "Field Goal Percentage": 0.688,
+                "Free Throw Percentage": 0.721,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 6.7,
+                "Assists Per Game": 1.2,
+                "Assists To Turnover Ratio": 1.1,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 1.4,
+                "Turnovers Per Game": 1.1,
+                "Points Per Game": 9.3
+            }
+        },
+        {
+            "player": "DorianFinney-Smith",
+            "team": "Dal",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 32.3,
+                "Field Goal Percentage": 0.471,
+                "Free Throw Percentage": 0.701,
+                "Three Pointers Per Game": 2.0,
+                "Rebounds Per Game": 5.0,
+                "Assists Per Game": 1.8,
+                "Assists To Turnover Ratio": 2.01,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 10.5
+            }
+        },
+        {
+            "player": "MasonPlumlee",
+            "team": "Cha",
+            "position": "C",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 24.9,
+                "Field Goal Percentage": 0.633,
+                "Free Throw Percentage": 0.468,
+                "Three Pointers Per Game": 0.0,
+                "Rebounds Per Game": 8.0,
+                "Assists Per Game": 3.2,
+                "Assists To Turnover Ratio": 2.12,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 1.5,
+                "Points Per Game": 7.4
+            }
+        },
+        {
+            "player": "WillBarton",
+            "team": "Wsh",
+            "position": "SF,SG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 29.7,
+                "Field Goal Percentage": 0.436,
+                "Free Throw Percentage": 0.792,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 4.5,
+                "Assists Per Game": 3.4,
+                "Assists To Turnover Ratio": 2.13,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 13.2
+            }
+        },
+        {
+            "player": "ChrisDuarte",
+            "team": "Ind",
+            "position": "SG",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 30.9,
+                "Field Goal Percentage": 0.449,
+                "Free Throw Percentage": 0.814,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 4.5,
+                "Assists Per Game": 2.3,
+                "Assists To Turnover Ratio": 1.28,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 14.8
+            }
+        },
+        {
+            "player": "KellyOlynyk",
+            "team": "Utah",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 24.8,
+                "Field Goal Percentage": 0.469,
+                "Free Throw Percentage": 0.812,
+                "Three Pointers Per Game": 1.5,
+                "Rebounds Per Game": 5.9,
+                "Assists Per Game": 2.9,
+                "Assists To Turnover Ratio": 1.7,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 11.6
+            }
+        },
+        {
+            "player": "CarisLeVert",
+            "team": "Cle",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 28.4,
+                "Field Goal Percentage": 0.443,
+                "Free Throw Percentage": 0.76,
+                "Three Pointers Per Game": 1.3,
+                "Rebounds Per Game": 3.5,
+                "Assists Per Game": 3.4,
+                "Assists To Turnover Ratio": 1.89,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 14.6
+            }
+        },
+        {
+            "player": "BojanBogdanovic",
+            "team": "Det",
+            "position": "PF",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 31.2,
+                "Field Goal Percentage": 0.449,
+                "Free Throw Percentage": 0.87,
+                "Three Pointers Per Game": 2.6,
+                "Rebounds Per Game": 4.2,
+                "Assists Per Game": 1.8,
+                "Assists To Turnover Ratio": 1.0,
+                "Steals Per Game": 0.5,
+                "Blocks Per Game": 0.0,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 18.1
+            }
+        },
+        {
+            "player": "Jae'SeanTate",
+            "team": "Hou",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 26.0,
+                "Field Goal Percentage": 0.489,
+                "Free Throw Percentage": 0.728,
+                "Three Pointers Per Game": 0.9,
+                "Rebounds Per Game": 5.1,
+                "Assists Per Game": 2.6,
+                "Assists To Turnover Ratio": 1.63,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 11.2
+            }
+        },
+        {
+            "player": "LonzoBall",
+            "team": "Chi",
+            "position": "PG",
+            "stats": {
+                "Games Played": 56.0,
+                "Minutes Per Game": 31.6,
+                "Field Goal Percentage": 0.421,
+                "Free Throw Percentage": 0.733,
+                "Three Pointers Per Game": 2.9,
+                "Rebounds Per Game": 5.0,
+                "Assists Per Game": 4.8,
+                "Assists To Turnover Ratio": 2.19,
+                "Steals Per Game": 1.6,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 2.2,
+                "Points Per Game": 12.1
+            }
+        },
+        {
+            "player": "MarvinBagleyIII",
+            "team": "Det",
+            "position": "PF",
+            "stats": {
+                "Games Played": 69.0,
+                "Minutes Per Game": 27.8,
+                "Field Goal Percentage": 0.495,
+                "Free Throw Percentage": 0.647,
+                "Three Pointers Per Game": 0.8,
+                "Rebounds Per Game": 8.1,
+                "Assists Per Game": 1.0,
+                "Assists To Turnover Ratio": 0.77,
+                "Steals Per Game": 0.5,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 15.5
+            }
+        },
+        {
+            "player": "JoseAlvarado",
+            "team": "NO",
+            "position": "PG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 21.8,
+                "Field Goal Percentage": 0.451,
+                "Free Throw Percentage": 0.703,
+                "Three Pointers Per Game": 1.0,
+                "Rebounds Per Game": 2.6,
+                "Assists Per Game": 4.0,
+                "Assists To Turnover Ratio": 4.0,
+                "Steals Per Game": 1.9,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.0,
+                "Points Per Game": 8.9
+            }
+        },
+        {
+            "player": "KyleAnderson",
+            "team": "Min",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 23.0,
+                "Field Goal Percentage": 0.459,
+                "Free Throw Percentage": 0.704,
+                "Three Pointers Per Game": 0.7,
+                "Rebounds Per Game": 5.3,
+                "Assists Per Game": 2.9,
+                "Assists To Turnover Ratio": 2.63,
+                "Steals Per Game": 1.1,
+                "Blocks Per Game": 0.7,
+                "Turnovers Per Game": 1.1,
+                "Points Per Game": 8.8
+            }
+        },
+        {
+            "player": "AleksejPokusevski",
+            "team": "OKC",
+            "position": "PF",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 27.8,
+                "Field Goal Percentage": 0.406,
+                "Free Throw Percentage": 0.728,
+                "Three Pointers Per Game": 1.5,
+                "Rebounds Per Game": 6.7,
+                "Assists Per Game": 2.8,
+                "Assists To Turnover Ratio": 1.27,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.9,
+                "Turnovers Per Game": 2.2,
+                "Points Per Game": 10.7
+            }
+        },
+        {
+            "player": "CameronPayne",
+            "team": "Phx",
+            "position": "PG",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 23.2,
+                "Field Goal Percentage": 0.426,
+                "Free Throw Percentage": 0.845,
+                "Three Pointers Per Game": 1.4,
+                "Rebounds Per Game": 3.2,
+                "Assists Per Game": 5.0,
+                "Assists To Turnover Ratio": 2.94,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 11.3
+            }
+        },
+        {
+            "player": "NormanPowell",
+            "team": "LAC",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 27.3,
+                "Field Goal Percentage": 0.472,
+                "Free Throw Percentage": 0.832,
+                "Three Pointers Per Game": 2.0,
+                "Rebounds Per Game": 2.8,
+                "Assists Per Game": 1.7,
+                "Assists To Turnover Ratio": 1.21,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 1.4,
+                "Points Per Game": 15.9
+            }
+        },
+        {
+            "player": "RobertCovington",
+            "team": "LAC",
+            "position": "PF,SF",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 25.0,
+                "Field Goal Percentage": 0.417,
+                "Free Throw Percentage": 0.824,
+                "Three Pointers Per Game": 1.6,
+                "Rebounds Per Game": 5.1,
+                "Assists Per Game": 1.2,
+                "Assists To Turnover Ratio": 1.34,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 1.1,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 7.8
+            }
+        },
+        {
+            "player": "KevinLove",
+            "team": "Cle",
+            "position": "PF",
+            "stats": {
+                "Games Played": 69.0,
+                "Minutes Per Game": 23.0,
+                "Field Goal Percentage": 0.43,
+                "Free Throw Percentage": 0.839,
+                "Three Pointers Per Game": 2.5,
+                "Rebounds Per Game": 7.4,
+                "Assists Per Game": 2.2,
+                "Assists To Turnover Ratio": 1.57,
+                "Steals Per Game": 0.4,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.4,
+                "Points Per Game": 13.8
+            }
+        },
+        {
+            "player": "TariEason",
+            "team": "Hou",
+            "position": "SF",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 25.3,
+                "Field Goal Percentage": 0.489,
+                "Free Throw Percentage": 0.813,
+                "Three Pointers Per Game": 1.0,
+                "Rebounds Per Game": 5.9,
+                "Assists Per Game": 1.1,
+                "Assists To Turnover Ratio": 0.55,
+                "Steals Per Game": 1.5,
+                "Blocks Per Game": 0.9,
+                "Turnovers Per Game": 2.0,
+                "Points Per Game": 9.8
+            }
+        },
+        {
+            "player": "BrookLopez",
+            "team": "Mil",
+            "position": "C",
+            "stats": {
+                "Games Played": 69.0,
+                "Minutes Per Game": 25.8,
+                "Field Goal Percentage": 0.477,
+                "Free Throw Percentage": 0.84,
+                "Three Pointers Per Game": 1.3,
+                "Rebounds Per Game": 4.6,
+                "Assists Per Game": 0.9,
+                "Assists To Turnover Ratio": 1.0,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 1.6,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 11.7
+            }
+        },
+        {
+            "player": "TeranceMann",
+            "team": "LAC",
+            "position": "SF,SG",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 28.1,
+                "Field Goal Percentage": 0.488,
+                "Free Throw Percentage": 0.792,
+                "Three Pointers Per Game": 0.9,
+                "Rebounds Per Game": 5.2,
+                "Assists Per Game": 2.5,
+                "Assists To Turnover Ratio": 2.51,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 1.0,
+                "Points Per Game": 10.5
+            }
+        },
+        {
+            "player": "MoBamba",
+            "team": "Orl",
+            "position": "C",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 21.5,
+                "Field Goal Percentage": 0.48,
+                "Free Throw Percentage": 0.761,
+                "Three Pointers Per Game": 1.2,
+                "Rebounds Per Game": 6.8,
+                "Assists Per Game": 1.0,
+                "Assists To Turnover Ratio": 1.1,
+                "Steals Per Game": 0.4,
+                "Blocks Per Game": 1.4,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 8.9
+            }
+        },
+        {
+            "player": "DariusBazley",
+            "team": "OKC",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 30.5,
+                "Field Goal Percentage": 0.412,
+                "Free Throw Percentage": 0.703,
+                "Three Pointers Per Game": 1.5,
+                "Rebounds Per Game": 7.0,
+                "Assists Per Game": 1.6,
+                "Assists To Turnover Ratio": 0.89,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 1.8,
+                "Points Per Game": 12.9
+            }
+        },
+        {
+            "player": "IsaiahJackson",
+            "team": "Ind",
+            "position": "PF,C",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 20.5,
+                "Field Goal Percentage": 0.539,
+                "Free Throw Percentage": 0.697,
+                "Three Pointers Per Game": 0.2,
+                "Rebounds Per Game": 5.7,
+                "Assists Per Game": 0.4,
+                "Assists To Turnover Ratio": 0.26,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 2.0,
+                "Turnovers Per Game": 1.5,
+                "Points Per Game": 9.9
+            }
+        },
+        {
+            "player": "JaeCrowder",
+            "team": "Phx",
+            "position": "PF,SF",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 28.5,
+                "Field Goal Percentage": 0.397,
+                "Free Throw Percentage": 0.779,
+                "Three Pointers Per Game": 2.0,
+                "Rebounds Per Game": 5.3,
+                "Assists Per Game": 1.9,
+                "Assists To Turnover Ratio": 2.1,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 0.4,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 9.6
+            }
+        },
+        {
+            "player": "SethCurry",
+            "team": "Bkn",
+            "position": "SG,PG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 28.8,
+                "Field Goal Percentage": 0.486,
+                "Free Throw Percentage": 0.872,
+                "Three Pointers Per Game": 2.2,
+                "Rebounds Per Game": 2.7,
+                "Assists Per Game": 3.0,
+                "Assists To Turnover Ratio": 2.14,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.4,
+                "Points Per Game": 13.0
+            }
+        },
+        {
+            "player": "KentaviousCaldwell-Pope",
+            "team": "Den",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 79.0,
+                "Minutes Per Game": 29.1,
+                "Field Goal Percentage": 0.437,
+                "Free Throw Percentage": 0.873,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 3.0,
+                "Assists Per Game": 1.9,
+                "Assists To Turnover Ratio": 1.72,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 1.1,
+                "Points Per Game": 11.7
+            }
+        },
+        {
+            "player": "CobyWhite",
+            "team": "Chi",
+            "position": "PG",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 28.8,
+                "Field Goal Percentage": 0.429,
+                "Free Throw Percentage": 0.864,
+                "Three Pointers Per Game": 2.3,
+                "Rebounds Per Game": 3.2,
+                "Assists Per Game": 3.1,
+                "Assists To Turnover Ratio": 2.39,
+                "Steals Per Game": 0.5,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 13.3
+            }
+        },
+        {
+            "player": "JadenMcDaniels",
+            "team": "Min",
+            "position": "SF",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 28.3,
+                "Field Goal Percentage": 0.472,
+                "Free Throw Percentage": 0.773,
+                "Three Pointers Per Game": 1.3,
+                "Rebounds Per Game": 4.5,
+                "Assists Per Game": 1.3,
+                "Assists To Turnover Ratio": 1.18,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.9,
+                "Turnovers Per Game": 1.1,
+                "Points Per Game": 10.8
+            }
+        },
+        {
+            "player": "VictorOladipo",
+            "team": "Mia",
+            "position": "SG",
+            "stats": {
+                "Games Played": 66.0,
+                "Minutes Per Game": 26.0,
+                "Field Goal Percentage": 0.417,
+                "Free Throw Percentage": 0.754,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 3.7,
+                "Assists Per Game": 3.7,
+                "Assists To Turnover Ratio": 1.76,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 2.1,
+                "Points Per Game": 15.2
+            }
+        },
+        {
+            "player": "GoranDragic",
+            "team": "Chi",
+            "position": "PG",
+            "stats": {
+                "Games Played": 66.0,
+                "Minutes Per Game": 29.8,
+                "Field Goal Percentage": 0.422,
+                "Free Throw Percentage": 0.806,
+                "Three Pointers Per Game": 1.8,
+                "Rebounds Per Game": 3.6,
+                "Assists Per Game": 5.1,
+                "Assists To Turnover Ratio": 2.13,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 2.4,
+                "Points Per Game": 13.8
+            }
+        },
+        {
+            "player": "Devonte'Graham",
+            "team": "NO",
+            "position": "PG",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 26.9,
+                "Field Goal Percentage": 0.369,
+                "Free Throw Percentage": 0.839,
+                "Three Pointers Per Game": 2.6,
+                "Rebounds Per Game": 2.3,
+                "Assists Per Game": 4.4,
+                "Assists To Turnover Ratio": 2.94,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.1,
+                "Turnovers Per Game": 1.5,
+                "Points Per Game": 12.1
+            }
+        },
+        {
+            "player": "JonathanKuminga",
+            "team": "GS",
+            "position": "PF,SF",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 24.7,
+                "Field Goal Percentage": 0.505,
+                "Free Throw Percentage": 0.704,
+                "Three Pointers Per Game": 1.1,
+                "Rebounds Per Game": 4.9,
+                "Assists Per Game": 1.3,
+                "Assists To Turnover Ratio": 0.87,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 1.5,
+                "Points Per Game": 13.6
+            }
+        },
+        {
+            "player": "DeniAvdija",
+            "team": "Wsh",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 27.8,
+                "Field Goal Percentage": 0.429,
+                "Free Throw Percentage": 0.752,
+                "Three Pointers Per Game": 1.1,
+                "Rebounds Per Game": 5.9,
+                "Assists Per Game": 2.2,
+                "Assists To Turnover Ratio": 1.84,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 1.2,
+                "Points Per Game": 9.4
+            }
+        },
+        {
+            "player": "RuiHachimura",
+            "team": "Wsh",
+            "position": "PF,SF",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 29.5,
+                "Field Goal Percentage": 0.484,
+                "Free Throw Percentage": 0.751,
+                "Three Pointers Per Game": 1.1,
+                "Rebounds Per Game": 5.2,
+                "Assists Per Game": 1.5,
+                "Assists To Turnover Ratio": 1.37,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.1,
+                "Points Per Game": 13.9
+            }
+        },
+        {
+            "player": "TyusJones",
+            "team": "Mem",
+            "position": "PG",
+            "stats": {
+                "Games Played": 77.0,
+                "Minutes Per Game": 20.7,
+                "Field Goal Percentage": 0.448,
+                "Free Throw Percentage": 0.826,
+                "Three Pointers Per Game": 1.0,
+                "Rebounds Per Game": 2.3,
+                "Assists Per Game": 4.4,
+                "Assists To Turnover Ratio": 6.28,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.1,
+                "Turnovers Per Game": 0.7,
+                "Points Per Game": 8.3
+            }
+        },
+        {
+            "player": "EvanFournier",
+            "team": "NY",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 26.2,
+                "Field Goal Percentage": 0.433,
+                "Free Throw Percentage": 0.763,
+                "Three Pointers Per Game": 2.6,
+                "Rebounds Per Game": 2.4,
+                "Assists Per Game": 2.2,
+                "Assists To Turnover Ratio": 1.69,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 1.3,
+                "Points Per Game": 13.5
+            }
+        },
+        {
+            "player": "TimHardawayJr.",
+            "team": "Dal",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 69.0,
+                "Minutes Per Game": 28.9,
+                "Field Goal Percentage": 0.424,
+                "Free Throw Percentage": 0.786,
+                "Three Pointers Per Game": 2.7,
+                "Rebounds Per Game": 3.4,
+                "Assists Per Game": 2.0,
+                "Assists To Turnover Ratio": 2.23,
+                "Steals Per Game": 0.7,
+                "Blocks Per Game": 0.1,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 15.4
+            }
+        },
+        {
+            "player": "BruceBrown",
+            "team": "Den",
+            "position": "SG",
+            "stats": {
+                "Games Played": 73.0,
+                "Minutes Per Game": 24.5,
+                "Field Goal Percentage": 0.511,
+                "Free Throw Percentage": 0.748,
+                "Three Pointers Per Game": 0.4,
+                "Rebounds Per Game": 5.0,
+                "Assists Per Game": 2.2,
+                "Assists To Turnover Ratio": 2.44,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 8.9
+            }
+        },
+        {
+            "player": "ReggieJackson",
+            "team": "LAC",
+            "position": "PG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 25.9,
+                "Field Goal Percentage": 0.404,
+                "Free Throw Percentage": 0.844,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 3.1,
+                "Assists Per Game": 3.9,
+                "Assists To Turnover Ratio": 2.3,
+                "Steals Per Game": 0.6,
+                "Blocks Per Game": 0.2,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 13.4
+            }
+        },
+        {
+            "player": "IsaiahStewart",
+            "team": "Det",
+            "position": "C,PF",
+            "stats": {
+                "Games Played": 75.0,
+                "Minutes Per Game": 24.3,
+                "Field Goal Percentage": 0.521,
+                "Free Throw Percentage": 0.714,
+                "Three Pointers Per Game": 0.2,
+                "Rebounds Per Game": 8.1,
+                "Assists Per Game": 1.1,
+                "Assists To Turnover Ratio": 1.0,
+                "Steals Per Game": 0.4,
+                "Blocks Per Game": 1.1,
+                "Turnovers Per Game": 1.1,
+                "Points Per Game": 8.1
+            }
+        },
+        {
+            "player": "PatrickBeverley",
+            "team": "LAL",
+            "position": "PG",
+            "stats": {
+                "Games Played": 67.0,
+                "Minutes Per Game": 24.7,
+                "Field Goal Percentage": 0.412,
+                "Free Throw Percentage": 0.727,
+                "Three Pointers Per Game": 1.4,
+                "Rebounds Per Game": 4.1,
+                "Assists Per Game": 3.9,
+                "Assists To Turnover Ratio": 3.26,
+                "Steals Per Game": 1.0,
+                "Blocks Per Game": 0.8,
+                "Turnovers Per Game": 1.2,
+                "Points Per Game": 8.5
+            }
+        },
+        {
+            "player": "CameronJohnson",
+            "team": "Phx",
+            "position": "SF,PF",
+            "stats": {
+                "Games Played": 74.0,
+                "Minutes Per Game": 25.7,
+                "Field Goal Percentage": 0.445,
+                "Free Throw Percentage": 0.847,
+                "Three Pointers Per Game": 2.4,
+                "Rebounds Per Game": 3.9,
+                "Assists Per Game": 1.5,
+                "Assists To Turnover Ratio": 2.13,
+                "Steals Per Game": 0.8,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 0.7,
+                "Points Per Game": 11.6
+            }
+        },
+        {
+            "player": "TalenHorton-Tucker",
+            "team": "Utah",
+            "position": "SG,SF",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 27.5,
+                "Field Goal Percentage": 0.43,
+                "Free Throw Percentage": 0.794,
+                "Three Pointers Per Game": 0.8,
+                "Rebounds Per Game": 3.5,
+                "Assists Per Game": 3.2,
+                "Assists To Turnover Ratio": 1.88,
+                "Steals Per Game": 1.2,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 1.7,
+                "Points Per Game": 11.3
+            }
+        },
+        {
+            "player": "KillianHayes",
+            "team": "Det",
+            "position": "PG",
+            "stats": {
+                "Games Played": 71.0,
+                "Minutes Per Game": 27.5,
+                "Field Goal Percentage": 0.4,
+                "Free Throw Percentage": 0.788,
+                "Three Pointers Per Game": 0.8,
+                "Rebounds Per Game": 3.4,
+                "Assists Per Game": 4.8,
+                "Assists To Turnover Ratio": 2.29,
+                "Steals Per Game": 1.3,
+                "Blocks Per Game": 0.6,
+                "Turnovers Per Game": 2.1,
+                "Points Per Game": 7.9
+            }
+        },
+        {
+            "player": "DelonWright",
+            "team": "Wsh",
+            "position": "SG,PF",
+            "stats": {
+                "Games Played": 76.0,
+                "Minutes Per Game": 22.6,
+                "Field Goal Percentage": 0.459,
+                "Free Throw Percentage": 0.818,
+                "Three Pointers Per Game": 0.8,
+                "Rebounds Per Game": 3.5,
+                "Assists Per Game": 3.2,
+                "Assists To Turnover Ratio": 3.57,
+                "Steals Per Game": 1.4,
+                "Blocks Per Game": 0.3,
+                "Turnovers Per Game": 0.9,
+                "Points Per Game": 6.7
+            }
+        },
+        {
+            "player": "NickeilAlexander-Walker",
+            "team": "Utah",
+            "position": "SG",
+            "stats": {
+                "Games Played": 72.0,
+                "Minutes Per Game": 24.6,
+                "Field Goal Percentage": 0.412,
+                "Free Throw Percentage": 0.738,
+                "Three Pointers Per Game": 1.9,
+                "Rebounds Per Game": 3.3,
+                "Assists Per Game": 2.6,
+                "Assists To Turnover Ratio": 1.63,
+                "Steals Per Game": 0.9,
+                "Blocks Per Game": 0.5,
+                "Turnovers Per Game": 1.6,
+                "Points Per Game": 12.5
+            }
+        }
+    ]
+}

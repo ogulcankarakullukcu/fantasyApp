@@ -1,0 +1,1172 @@
+[
+    {
+        "playerName": "Luka Doncic",
+        "playerTeam": "Dal",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Nikola Jokic",
+        "playerTeam": "Den",
+        "playerPos": "C",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Giannis Antetokounmpo",
+        "playerTeam": "Mil",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Jayson Tatum",
+        "playerTeam": "Bos",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Joel Embiid",
+        "playerTeam": "Phi",
+        "playerPos": "C",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Ja Morant",
+        "playerTeam": "Mem",
+        "playerPos": "PG",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Kevin Durant",
+        "playerTeam": "Bkn",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Stephen Curry",
+        "playerTeam": "GS",
+        "playerPos": "PG",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "James Harden",
+        "playerTeam": "Phi",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Trae Young",
+        "playerTeam": "Atl",
+        "playerPos": "PG",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "LeBron James",
+        "playerTeam": "LAL",
+        "playerPos": "SF,PG,PF",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Devin Booker",
+        "playerTeam": "Phx",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Karl-Anthony Towns",
+        "playerTeam": "Min",
+        "playerPos": "C",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "DeMar DeRozan",
+        "playerTeam": "Chi",
+        "playerPos": "SF,SG",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Paul George",
+        "playerTeam": "LAC",
+        "playerPos": "SF,SG",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Zion Williamson",
+        "playerTeam": "NO",
+        "playerPos": "PF",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Damian Lillard",
+        "playerTeam": "Por",
+        "playerPos": "PG",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "LaMelo Ball",
+        "playerTeam": "Cha",
+        "playerPos": "PG",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Jimmy Butler",
+        "playerTeam": "Mia",
+        "playerPos": "SF,SG",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Pascal Siakam",
+        "playerTeam": "Tor",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Anthony Davis",
+        "playerTeam": "LAL",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Dejounte Murray",
+        "playerTeam": "Atl",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Rudy Gobert",
+        "playerTeam": "Min",
+        "playerPos": "C",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Jaylen Brown",
+        "playerTeam": "Bos",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Anthony Edwards",
+        "playerTeam": "Min",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Kyrie Irving",
+        "playerTeam": "Bkn",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Kawhi Leonard",
+        "playerTeam": "LAC",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Donovan Mitchell",
+        "playerTeam": "Cle",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Tyrese Haliburton",
+        "playerTeam": "Ind",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Domantas Sabonis",
+        "playerTeam": "Sac",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Bam Adebayo",
+        "playerTeam": "Mia",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Nikola Vucevic",
+        "playerTeam": "Chi",
+        "playerPos": "C",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Brandon Ingram",
+        "playerTeam": "NO",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Shai Gilgeous-Alexander",
+        "playerTeam": "OKC",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Cade Cunningham",
+        "playerTeam": "Det",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Julius Randle",
+        "playerTeam": "NY",
+        "playerPos": "PF",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Jrue Holiday",
+        "playerTeam": "Mil",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Scottie Barnes",
+        "playerTeam": "Tor",
+        "playerPos": "PF,SF",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Fred VanVleet",
+        "playerTeam": "Tor",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Zach LaVine",
+        "playerTeam": "Chi",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "De'Aaron Fox",
+        "playerTeam": "Sac",
+        "playerPos": "PG",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Evan Mobley",
+        "playerTeam": "Cle",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Bradley Beal",
+        "playerTeam": "Wsh",
+        "playerPos": "SG",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "CJ McCollum",
+        "playerTeam": "NO",
+        "playerPos": "SG",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Darius Garland",
+        "playerTeam": "Cle",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Deandre Ayton",
+        "playerTeam": "Phx",
+        "playerPos": "C",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Andrew Wiggins",
+        "playerTeam": "GS",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Jalen Brunson",
+        "playerTeam": "NY",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Chris Paul",
+        "playerTeam": "Phx",
+        "playerPos": "PG",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Paolo Banchero",
+        "playerTeam": "Orl",
+        "playerPos": "PF",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Terry Rozier",
+        "playerTeam": "Cha",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Kristaps Porzingis",
+        "playerTeam": "Wsh",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Jonas Valanciunas",
+        "playerTeam": "NO",
+        "playerPos": "C",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Desmond Bane",
+        "playerTeam": "Mem",
+        "playerPos": "SG",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Klay Thompson",
+        "playerTeam": "GS",
+        "playerPos": "SG",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Jordan Poole",
+        "playerTeam": "GS",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Tyler Herro",
+        "playerTeam": "Mia",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Jarrett Allen",
+        "playerTeam": "Cle",
+        "playerPos": "C",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Jamal Murray",
+        "playerTeam": "Den",
+        "playerPos": "PG",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Khris Middleton",
+        "playerTeam": "Mil",
+        "playerPos": "SF",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Tyrese Maxey",
+        "playerTeam": "Phi",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Josh Giddey",
+        "playerTeam": "OKC",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "D'Angelo Russell",
+        "playerTeam": "Min",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Kyle Kuzma",
+        "playerTeam": "Wsh",
+        "playerPos": "PF,SF",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Ben Simmons",
+        "playerTeam": "Bkn",
+        "playerPos": "PG",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Jakob Poeltl",
+        "playerTeam": "SA",
+        "playerPos": "C",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Russell Westbrook",
+        "playerTeam": "LAL",
+        "playerPos": "PG",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "John Collins",
+        "playerTeam": "Atl",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Jalen Green",
+        "playerTeam": "Hou",
+        "playerPos": "SG",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Christian Wood",
+        "playerTeam": "Dal",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Kevin Porter Jr.",
+        "playerTeam": "Hou",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Collin Sexton",
+        "playerTeam": "Utah",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Buddy Hield",
+        "playerTeam": "Ind",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Tobias Harris",
+        "playerTeam": "Phi",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Keldon Johnson",
+        "playerTeam": "SA",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Lauri Markkanen",
+        "playerTeam": "Utah",
+        "playerPos": "PF,SF",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Saddiq Bey",
+        "playerTeam": "Det",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Myles Turner",
+        "playerTeam": "Ind",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Alperen Sengun",
+        "playerTeam": "Hou",
+        "playerPos": "C",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "O.G. Anunoby",
+        "playerTeam": "Tor",
+        "playerPos": "SF",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Jusuf Nurkic",
+        "playerTeam": "Por",
+        "playerPos": "C",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Mikal Bridges",
+        "playerTeam": "Phx",
+        "playerPos": "SF",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Michael Porter Jr.",
+        "playerTeam": "Den",
+        "playerPos": "SF",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Bobby Portis",
+        "playerTeam": "Mil",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Franz Wagner",
+        "playerTeam": "Orl",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "RJ Barrett",
+        "playerTeam": "NY",
+        "playerPos": "SF",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Anfernee Simons",
+        "playerTeam": "Por",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Malcolm Brogdon",
+        "playerTeam": "Bos",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Draymond Green",
+        "playerTeam": "GS",
+        "playerPos": "PF",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Spencer Dinwiddie",
+        "playerTeam": "Dal",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Keegan Murray",
+        "playerTeam": "Sac",
+        "playerPos": "PF",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Josh Hart",
+        "playerTeam": "Por",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Jerami Grant",
+        "playerTeam": "Por",
+        "playerPos": "PF,SF",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Clint Capela",
+        "playerTeam": "Atl",
+        "playerPos": "C",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Marcus Smart",
+        "playerTeam": "Bos",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Wendell Carter Jr.",
+        "playerTeam": "Orl",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Devin Vassell",
+        "playerTeam": "SA",
+        "playerPos": "SF,SG",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Gary Trent Jr.",
+        "playerTeam": "Tor",
+        "playerPos": "SG",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Jaden Ivey",
+        "playerTeam": "Det",
+        "playerPos": "PG",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Mike Conley",
+        "playerTeam": "Utah",
+        "playerPos": "PG",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Gordon Hayward",
+        "playerTeam": "Cha",
+        "playerPos": "SF",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Kyle Lowry",
+        "playerTeam": "Mia",
+        "playerPos": "PG",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "P.J. Washington",
+        "playerTeam": "Cha",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Robert Williams III",
+        "playerTeam": "Bos",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Mitchell Robinson",
+        "playerTeam": "NY",
+        "playerPos": "C",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Kelly Oubre Jr.",
+        "playerTeam": "Cha",
+        "playerPos": "PF,SG",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Ivica Zubac",
+        "playerTeam": "LAC",
+        "playerPos": "C",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "John Wall",
+        "playerTeam": "LAC",
+        "playerPos": "PG",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Jalen Suggs",
+        "playerTeam": "Orl",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Tre Jones",
+        "playerTeam": "SA",
+        "playerPos": "PG",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Harrison Barnes",
+        "playerTeam": "Sac",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Dillon Brooks",
+        "playerTeam": "Mem",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Brandon Clarke",
+        "playerTeam": "Mem",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Monte Morris",
+        "playerTeam": "Wsh",
+        "playerPos": "PG",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Jordan Clarkson",
+        "playerTeam": "Utah",
+        "playerPos": "SG",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Jabari Smith Jr.",
+        "playerTeam": "Hou",
+        "playerPos": "PF",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Aaron Gordon",
+        "playerTeam": "Den",
+        "playerPos": "PF",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Cole Anthony",
+        "playerTeam": "Orl",
+        "playerPos": "PG",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Al Horford",
+        "playerTeam": "Bos",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Caris LeVert",
+        "playerTeam": "Cle",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Andre Drummond",
+        "playerTeam": "Chi",
+        "playerPos": "C",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Kevin Huerter",
+        "playerTeam": "Sac",
+        "playerPos": "SG",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Jalen Smith",
+        "playerTeam": "Ind",
+        "playerPos": "PF",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Jaren Jackson Jr.",
+        "playerTeam": "Mem",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Nic Claxton",
+        "playerTeam": "Bkn",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Steven Adams",
+        "playerTeam": "Mem",
+        "playerPos": "C",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Chris Boucher",
+        "playerTeam": "Tor",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Malik Beasley",
+        "playerTeam": "Utah",
+        "playerPos": "SG",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Herbert Jones",
+        "playerTeam": "NO",
+        "playerPos": "PF,SF",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Bojan Bogdanovic",
+        "playerTeam": "Det",
+        "playerPos": "PF",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Montrezl Harrell",
+        "playerTeam": "Phi",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Derrick White",
+        "playerTeam": "Bos",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Bennedict Mathurin",
+        "playerTeam": "Ind",
+        "playerPos": "SF",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Jonathan Isaac",
+        "playerTeam": "Orl",
+        "playerPos": "PF,SF",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "James Wiseman",
+        "playerTeam": "GS",
+        "playerPos": "C",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Bogdan Bogdanovic",
+        "playerTeam": "Atl",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Lonzo Ball",
+        "playerTeam": "Chi",
+        "playerPos": "PG",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Norman Powell",
+        "playerTeam": "LAC",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Ayo Dosunmu",
+        "playerTeam": "Chi",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Dennis Schroder",
+        "playerTeam": "LAL",
+        "playerPos": "PG",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Luguentz Dort",
+        "playerTeam": "OKC",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Jaden McDaniels",
+        "playerTeam": "Min",
+        "playerPos": "SF",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Will Barton",
+        "playerTeam": "Wsh",
+        "playerPos": "SF,SG",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "De'Andre Hunter",
+        "playerTeam": "Atl",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Seth Curry",
+        "playerTeam": "Bkn",
+        "playerPos": "SG,PG",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Brook Lopez",
+        "playerTeam": "Mil",
+        "playerPos": "C",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Reggie Jackson",
+        "playerTeam": "LAC",
+        "playerPos": "PG",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Santi Aldama",
+        "playerTeam": "Mem",
+        "playerPos": "PF",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Mo Bamba",
+        "playerTeam": "Orl",
+        "playerPos": "C",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Isaiah Stewart",
+        "playerTeam": "Det",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Victor Oladipo",
+        "playerTeam": "Mia",
+        "playerPos": "SG",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Dorian Finney-Smith",
+        "playerTeam": "Dal",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Bones Hyland",
+        "playerTeam": "Den",
+        "playerPos": "PG",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Cameron Johnson",
+        "playerTeam": "Phx",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Kevin Love",
+        "playerTeam": "Cle",
+        "playerPos": "PF",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Robert Covington",
+        "playerTeam": "LAC",
+        "playerPos": "PF,SF",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Kelly Olynyk",
+        "playerTeam": "Utah",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Onyeka Okongwu",
+        "playerTeam": "Atl",
+        "playerPos": "C",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Jarred Vanderbilt",
+        "playerTeam": "Utah",
+        "playerPos": "PF",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "Alex Caruso",
+        "playerTeam": "Chi",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Lonnie Walker IV",
+        "playerTeam": "LAL",
+        "playerPos": "SF,SG",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Aleksej Pokusevski",
+        "playerTeam": "OKC",
+        "playerPos": "PF",
+        "teamNameAbbrev": "BAF"
+    },
+    {
+        "playerName": "Tim Hardaway Jr.",
+        "playerTeam": "Dal",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Isaiah Jackson",
+        "playerTeam": "Ind",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Kentavious Caldwell-Pope",
+        "playerTeam": "Den",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Cam Reddish",
+        "playerTeam": "NY",
+        "playerPos": "SF,SG",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Isaiah Hartenstein",
+        "playerTeam": "NY",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "HDR"
+    },
+    {
+        "playerName": "Jalen Duren",
+        "playerTeam": "Det",
+        "playerPos": "C",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "Darius Bazley",
+        "playerTeam": "OKC",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Mason Plumlee",
+        "playerTeam": "Cha",
+        "playerPos": "C",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Chris Duarte",
+        "playerTeam": "Ind",
+        "playerPos": "SG",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Dennis Smith Jr.",
+        "playerTeam": "Cha",
+        "playerPos": "PG",
+        "teamNameAbbrev": "AKSU"
+    },
+    {
+        "playerName": "Royce O'Neale",
+        "playerTeam": "Bkn",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Walker Kessler",
+        "playerTeam": "Utah",
+        "playerPos": "C",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Grant Williams",
+        "playerTeam": "Bos",
+        "playerPos": "PF",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Evan Fournier",
+        "playerTeam": "NY",
+        "playerPos": "SG,SF",
+        "teamNameAbbrev": "SOKA"
+    },
+    {
+        "playerName": "John Konchar",
+        "playerTeam": "Mem",
+        "playerPos": "SG",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Jae'Sean Tate",
+        "playerTeam": "Hou",
+        "playerPos": "SF,PF",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Marcus Morris Sr.",
+        "playerTeam": "LAC",
+        "playerPos": "PF,SF",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Terance Mann",
+        "playerTeam": "LAC",
+        "playerPos": "SF,SG",
+        "teamNameAbbrev": "BWA"
+    },
+    {
+        "playerName": "Max Strus",
+        "playerTeam": "Mia",
+        "playerPos": "SG",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Kendrick Nunn",
+        "playerTeam": "LAL",
+        "playerPos": "SG",
+        "teamNameAbbrev": "ASR"
+    },
+    {
+        "playerName": "De'Anthony Melton",
+        "playerTeam": "Phi",
+        "playerPos": "PG,SG",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Tyus Jones",
+        "playerTeam": "Mem",
+        "playerPos": "PG",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Daniel Gafford",
+        "playerTeam": "Wsh",
+        "playerPos": "C,PF",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Patrick Williams",
+        "playerTeam": "Chi",
+        "playerPos": "PF,SF",
+        "teamNameAbbrev": "DRA"
+    },
+    {
+        "playerName": "Trey Murphy III",
+        "playerTeam": "NO",
+        "playerPos": "SG",
+        "teamNameAbbrev": "STH"
+    },
+    {
+        "playerName": "Precious Achiuwa",
+        "playerTeam": "Tor",
+        "playerPos": "PF,C",
+        "teamNameAbbrev": "AIR"
+    },
+    {
+        "playerName": "Grayson Allen",
+        "playerTeam": "Mil",
+        "playerPos": "SG",
+        "teamNameAbbrev": "BÜŞ"
+    },
+    {
+        "playerName": "Luke Kennard",
+        "playerTeam": "LAC",
+        "playerPos": "SG",
+        "teamNameAbbrev": "SSF"
+    },
+    {
+        "playerName": "Immanuel Quickley",
+        "playerTeam": "NY",
+        "playerPos": "PG",
+        "teamNameAbbrev": "BKn"
+    },
+    {
+        "playerName": "Shaedon Sharpe",
+        "playerTeam": "Por",
+        "playerPos": "SG",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Matisse Thybulle",
+        "playerTeam": "Phi",
+        "playerPos": "SF,SG",
+        "teamNameAbbrev": "PUMP"
+    },
+    {
+        "playerName": "Nick Richards",
+        "playerTeam": "Cha",
+        "playerPos": "C",
+        "teamNameAbbrev": "Bar"
+    },
+    {
+        "playerName": "Zach Collins",
+        "playerTeam": "SA",
+        "playerPos": "C",
+        "teamNameAbbrev": "AKSU"
+    }
+]

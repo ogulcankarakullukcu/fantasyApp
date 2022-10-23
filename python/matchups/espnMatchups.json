@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "matchupName": "Matchup 1 (Oct 17 - 23)",
+        "teamName": "ALL SwiShhh"
+    },
+    {
+        "id": 2,
+        "matchupName": "Matchup 2 (Oct 24 - 30)",
+        "teamName": "Ballers With Attitude"
+    },
+    {
+        "id": 3,
+        "matchupName": "Matchup 3 (Oct 31 - Nov 6)",
+        "teamName": "Fikirtepe Warriors"
+    },
+    {
+        "id": 4,
+        "matchupName": "Matchup 4 (Nov 7 - 13)",
+        "teamName": "BassKatBall baf"
+    },
+    {
+        "id": 5,
+        "matchupName": "Matchup 5 (Nov 14 - 20)",
+        "teamName": "Jok Ic On You"
+    },
+    {
+        "id": 6,
+        "matchupName": "Matchup 6 (Nov 21 - 27)",
+        "teamName": "LAL TuneSquad"
+    },
+    {
+        "id": 7,
+        "matchupName": "Matchup 7 (Nov 28 - Dec 4)",
+        "teamName": "Team Yenge"
+    },
+    {
+        "id": 8,
+        "matchupName": "Matchup 8 (Dec 5 - 11)",
+        "teamName": "Atasehir Renaissance"
+    },
+    {
+        "id": 9,
+        "matchupName": "Matchup 9 (Dec 12 - 18)",
+        "teamName": "Sith Lords"
+    },
+    {
+        "id": 10,
+        "matchupName": "Matchup 10 (Dec 19 - 25)",
+        "teamName": "Air Ballers"
+    },
+    {
+        "id": 11,
+        "matchupName": "Matchup 11 (Dec 26 - Jan 1)",
+        "teamName": "Team Mr Minister"
+    },
+    {
+        "id": 12,
+        "matchupName": "Matchup 12 (Jan 2 - 8)",
+        "teamName": "Team Hücum süresi"
+    },
+    {
+        "id": 13,
+        "matchupName": "Matchup 13 (Jan 9 - 15)",
+        "teamName": "PUMPKIN DYNASTY"
+    },
+    {
+        "id": 14,
+        "matchupName": "Matchup 14 (Jan 16 - 22)",
+        "teamName": "ALL SwiShhh"
+    },
+    {
+        "id": 15,
+        "matchupName": "Matchup 15 (Jan 23 - 29)",
+        "teamName": "Ballers With Attitude"
+    },
+    {
+        "id": 16,
+        "matchupName": "Matchup 16 (Jan 30 - Feb 5)",
+        "teamName": "Fikirtepe Warriors"
+    },
+    {
+        "id": 17,
+        "matchupName": "Matchup 17 (Feb 6 - 12)",
+        "teamName": "BassKatBall baf"
+    },
+    {
+        "id": 18,
+        "matchupName": "Matchup 18 (Feb 13 - 26)",
+        "teamName": "Jok Ic On You"
+    },
+    {
+        "id": 19,
+        "matchupName": "Matchup 19 (Feb 27 - Mar 5)",
+        "teamName": "LAL TuneSquad"
+    },
+    {
+        "id": 20,
+        "matchupName": "Matchup 20 (Mar 6 - 12)",
+        "teamName": "Team Yenge"
+    }
+]
